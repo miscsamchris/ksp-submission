@@ -1,0 +1,428 @@
+ 
+----------------------------------------------------------------------------------------------------------------------
+
+      DATE     PARTICULARS                            CHQ.NO.    WITHDRAWALS       DEPOSITS      BALANCE
+----------------------------------------------------------------------------------------------------------------------
+ 01-01-2016    B/F                                                                                                0
+ 25-01-2016  T S/CR                                                                       3,500.00         3,500.00Cr
+ 09-03-2016  C BY CASH                                                                    1,500.00         5,000.00Cr
+ 09-03-2016  T cheque issue charg                                             131.00                       4,869.00Cr
+ 09-03-2016  T SERVICETAX ON CHQISSUE                                          19.00                       4,850.00Cr
+ 29-03-2016  T MIN.BAL.Charges                                                458.00                       4,392.00Cr
+ 05-04-2016  C BY CASH                                                                   48,000.00        52,392.00Cr
+ 05-04-2016  C SELF                                   661451               50,000.00                       2,392.00Cr
+ 11-04-2016  C BY CASH                                                                   14,000.00        16,392.00Cr
+ 12-04-2016  L SURESH ROY                             661452               10,000.00                       6,392.00Cr
+ 13-04-2016  L BY INST 4 : MICR OW CLG                                                   74,000.00        80,392.00Cr
+ 15-04-2016  C SELF                                   661455               75,000.00                       5,392.00Cr
+ 18-04-2016  C BY SELF                                                                   20,000.00        25,392.00Cr
+ 18-04-2016  C BY CASH                                                                   50,000.00        75,392.00Cr
+ 22-04-2016  T CWDR/611318109606/22-04-2016                                10,020.00                      65,372.00Cr
+ 22-04-2016  T CWDR/611318109607/22-04-2016                                10,020.00                      55,352.00Cr
+ 26-04-2016  L SURESH ROY                             661453               11,000.00                      44,352.00Cr
+ 26-04-2016  T CWDR/611717109591/26-04-2016                                10,020.00                      34,332.00Cr
+ 26-04-2016  T CWDR/611717109592/26-04-2016                                10,020.00                      24,312.00Cr
+ 27-04-2016  C SELF                                   661456               19,300.00                       5,012.00Cr
+ 12-05-2016  T CHQ RETURN CHRGS                                                90.83                       4,921.17Cr
+ 12-05-2016  T CHQ RETURNED INTT. CHARGED                                       6.00                       4,915.17Cr
+ 12-05-2016  T service charge on chq retd                                      13.17                       4,902.00Cr
+----------------------------------------------------------------------------------------------------------------------
+  Page Total:                                                    2,06,098.00    2,11,000.00        4,902.00Cr
+----------------------------------------------------------------------------------------------------------------------
+T - Transfer        C - Cash         L - Clearing
+Cheque Issued Charg - Charge for Cheque Book Issuance, ACCOUNT MAINTENENCE CHG - Charges for Inoperative Account,
+Chq. Retn Chargs- Charge for Dishonoured cheque,To Clg. Collection Chgrs - Charge for collection of outstation cheque,
+Ledger Folio Charge-Charges for Ledger Folio Maintenance,Min. BAL Chrg-Charge for Minimum Balance,
+To ISL-Charge for InterSol Transaction,Commitment Charges-Charge for account balance maintaining below sanction limit.
+
+Unless the constituent notifies the bank
+immediately of any discrepancy found
+by him in this statement of Account,
+it will be  taken  that he has found
+the account correct.                                Date Stamp             Manager
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------
+
+      DATE     PARTICULARS                            CHQ.NO.    WITHDRAWALS       DEPOSITS      BALANCE
+----------------------------------------------------------------------------------------------------------------------
+ 30-05-2016  C BY CASH                                                                   92,000.00        96,902.00Cr
+ 30-05-2016  C SELF                                   661457               50,000.00                      46,902.00Cr
+ 04-06-2016  T SMS CHARGES JAN16-MAR16                                          1.32                      46,900.68Cr
+ 08-06-2016  T BLIN/000000003385/08-06-2016                                     8.00                      46,892.68Cr
+ 10-06-2016  C SELF                                   661458               41,500.00                       5,392.68Cr
+ 15-07-2016  T CWDR/619715006706/15-07-2016                                 3,020.00                       2,372.68Cr
+ 18-07-2016  C BY CASH                                                                   90,000.00        92,372.68Cr
+ 18-07-2016  C BY CASH                                                                   40,000.00      1,32,372.68Cr
+ 18-07-2016  C SELF                                   661459               50,000.00                      82,372.68Cr
+ 21-07-2016  C TO CASH                                661461               50,000.00                      32,372.68Cr
+ 26-07-2016  C TO SELF                                661462               30,000.00                       2,372.68Cr
+ 26-07-2016  C BY CASH                                                                    5,000.00         7,372.68Cr
+ 19-08-2016  T CWDR/000000003454/19-08-2016                                   320.00                       7,052.68Cr
+ 23-08-2016  L BY INST 653487 : MICR OW CLG                                              21,000.00        28,052.68Cr
+ 24-08-2016  C BY CASH                                                                   30,000.00        58,052.68Cr
+ 24-08-2016  C BY CASH                                                                   20,000.00        78,052.68Cr
+ 24-08-2016  C SELF                                   661463               50,000.00                      28,052.68Cr
+ 26-08-2016  C CASH                                                                       5,000.00        33,052.68Cr
+ 26-08-2016  T CHQ RETURN CHRGS                                                91.30                      32,961.38Cr
+ 26-08-2016  T CHQ RETURNED INTT. CHARGED                                      16.00                      32,945.38Cr
+ 26-08-2016  T service charge on chq retd                                      13.70                      32,931.68Cr
+ 29-08-2016  T CWDR/000000007687/28-08-2016                                   220.00                      32,711.68Cr
+ 29-08-2016  T CWDR/624218109670/29-08-2016                                10,020.00                      22,691.68Cr
+----------------------------------------------------------------------------------------------------------------------
+  Page Total:                                                    2,85,210.32    3,03,000.00       22,691.68Cr
+----------------------------------------------------------------------------------------------------------------------
+T - Transfer        C - Cash         L - Clearing
+Cheque Issued Charg - Charge for Cheque Book Issuance, ACCOUNT MAINTENENCE CHG - Charges for Inoperative Account,
+Chq. Retn Chargs- Charge for Dishonoured cheque,To Clg. Collection Chgrs - Charge for collection of outstation cheque,
+Ledger Folio Charge-Charges for Ledger Folio Maintenance,Min. BAL Chrg-Charge for Minimum Balance,
+To ISL-Charge for InterSol Transaction,Commitment Charges-Charge for account balance maintaining below sanction limit.
+
+Unless the constituent notifies the bank
+immediately of any discrepancy found
+by him in this statement of Account,
+it will be  taken  that he has found
+the account correct.                                Date Stamp             Manager
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------
+
+      DATE     PARTICULARS                            CHQ.NO.    WITHDRAWALS       DEPOSITS      BALANCE
+----------------------------------------------------------------------------------------------------------------------
+ 31-08-2016  L BY INST 653488 : MICR OW CLG                                              25,000.00        47,691.68Cr
+ 05-09-2016  T MPAY/TRTR/624815722014/04-09-                                                 50.00        47,741.68Cr
+ 05-09-2016  T MPAY/TRTR/624815723026/04-09-                                              5,000.00        52,741.68Cr
+ 05-09-2016  T MPAY/TRTR/624822744569/04-09-                                              2,000.00        54,741.68Cr
+ 05-09-2016  T MPAY/TRTR/624822744613/04-09-                                              2,000.00        56,741.68Cr
+ 05-09-2016  C CASH                                                                       5,000.00        61,741.68Cr
+ 08-09-2016  C BY CASH                                                                   49,000.00      1,10,741.68Cr
+ 08-09-2016  C  BY CASH                                                                  49,000.00      1,59,741.68Cr
+ 09-09-2016  L SUCHITRA FASHION                       661466               57,500.00                    1,02,241.68Cr
+ 09-09-2016  L SUCHITRA FASHION                       661467               56,480.00                      45,761.68Cr
+ 13-09-2016  T CWDR/625719109632/13-09-2016                                10,020.00                      35,741.68Cr
+ 16-09-2016  L BY INST 599488 : MICR OW CLG                                              30,000.00        65,741.68Cr
+ 21-09-2016  T SMS CHARGES APR16-JUN16                                          2.04                      65,739.64Cr
+ 27-09-2016  L MAA INDIRA ROADLINES                   661471                1,480.00                      64,259.64Cr
+ 29-09-2016  C BY CASH                                                                   40,000.00      1,04,259.64Cr
+ 29-09-2016  C SELF                                   661473               50,000.00                      54,259.64Cr
+ 29-09-2016  C BY CASH                                                                   50,000.00      1,04,259.64Cr
+ 01-10-2016  L MANSUKH PRINTS                         661472               41,000.00                      63,259.64Cr
+ 03-10-2016  C BY CASH                                                                   19,500.00        82,759.64Cr
+ 03-10-2016  L AJAYKUMAR SINGH                        661468               59,500.00                      23,259.64Cr
+ 07-10-2016  T CHQ RETURN CHRGS                                                91.30                      23,168.34Cr
+ 07-10-2016  T CHQ RETURNED INTT. CHARGED                                      30.00                      23,138.34Cr
+ 07-10-2016  T service charge on chq retd                                      13.70                      23,124.64Cr
+----------------------------------------------------------------------------------------------------------------------
+  Page Total:                                                    2,76,117.04    2,76,550.00       23,124.64Cr
+----------------------------------------------------------------------------------------------------------------------
+T - Transfer        C - Cash         L - Clearing
+Cheque Issued Charg - Charge for Cheque Book Issuance, ACCOUNT MAINTENENCE CHG - Charges for Inoperative Account,
+Chq. Retn Chargs- Charge for Dishonoured cheque,To Clg. Collection Chgrs - Charge for collection of outstation cheque,
+Ledger Folio Charge-Charges for Ledger Folio Maintenance,Min. BAL Chrg-Charge for Minimum Balance,
+To ISL-Charge for InterSol Transaction,Commitment Charges-Charge for account balance maintaining below sanction limit.
+
+Unless the constituent notifies the bank
+immediately of any discrepancy found
+by him in this statement of Account,
+it will be  taken  that he has found
+the account correct.                                Date Stamp             Manager
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------
+
+      DATE     PARTICULARS                            CHQ.NO.    WITHDRAWALS       DEPOSITS      BALANCE
+----------------------------------------------------------------------------------------------------------------------
+ 14-10-2016  C BY CASH                                                                   38,000.00        61,124.64Cr
+ 14-10-2016  L SUCHITRA FASHION                       661470               59,000.00                       2,124.64Cr
+ 20-10-2016  L BY INST 3442 : MICR OW CLG                                                40,000.00        42,124.64Cr
+ 20-10-2016  T CWDR/000000001083/20-10-2016                                   220.00                      41,904.64Cr
+ 24-10-2016  L SHREE BALAJI EXORESS DIVISION          661475                1,143.00                      40,761.64Cr
+ 24-10-2016  T CRTR/000000030233/24-10-2016                                              20,500.00        61,261.64Cr
+ 25-10-2016  L BY INST 31997 : MICR OW CLG                                               49,000.00      1,10,261.64Cr
+ 25-10-2016  L SUCHITRA FASHION                       661469               59,000.00                      51,261.64Cr
+ 01-11-2016  C SELF                                   661479               50,000.00                       1,261.64Cr
+ 19-11-2016  C BY CASH                                                                   49,000.00        50,261.64Cr
+ 21-11-2016  C BY CASH                                                                   10,000.00        60,261.64Cr
+ 22-11-2016  C SELF                                   661481               50,000.00                      10,261.64Cr
+ 24-11-2016  T NEFT/ DHIRAJ KUMAR SO PRAMOD                                              49,000.00        59,261.64Cr
+ 03-12-2016  C SELF                                   661483               20,000.00                      39,261.64Cr
+ 03-12-2016  C BY CASH                                                                   12,000.00        51,261.64Cr
+ 05-12-2016  L HDB FINANCIAL SERVICES LTD             661478                3,797.00                      47,464.64Cr
+ 05-12-2016  L HDB FINANCIAL SERVICES LTD             661477                3,517.00                      43,947.64Cr
+ 07-12-2016  L SURESH ROY                             661482                5,000.00                      38,947.64Cr
+ 08-12-2016  C BY CASH                                                                    5,000.00        43,947.64Cr
+ 09-12-2016  L GS CREATION                            661485               37,000.00                       6,947.64Cr
+ 12-12-2016  C BY CASH                                                                 1,13,000.00      1,19,947.64Cr
+ 13-12-2016  C BY CASH                                                                   50,000.00      1,69,947.64Cr
+ 14-12-2016  C BY CASH                                                                 3,31,500.00      5,01,447.64Cr
+----------------------------------------------------------------------------------------------------------------------
+  Page Total:                                                    2,88,677.00    7,67,000.00     5,01,447.64Cr
+----------------------------------------------------------------------------------------------------------------------
+T - Transfer        C - Cash         L - Clearing
+Cheque Issued Charg - Charge for Cheque Book Issuance, ACCOUNT MAINTENENCE CHG - Charges for Inoperative Account,
+Chq. Retn Chargs- Charge for Dishonoured cheque,To Clg. Collection Chgrs - Charge for collection of outstation cheque,
+Ledger Folio Charge-Charges for Ledger Folio Maintenance,Min. BAL Chrg-Charge for Minimum Balance,
+To ISL-Charge for InterSol Transaction,Commitment Charges-Charge for account balance maintaining below sanction limit.
+
+Unless the constituent notifies the bank
+immediately of any discrepancy found
+by him in this statement of Account,
+it will be  taken  that he has found
+the account correct.                                Date Stamp             Manager
+
+
+   
+----------------------------------------------------------------------------------------------------------------------
+
+      DATE     PARTICULARS                            CHQ.NO.    WITHDRAWALS       DEPOSITS      BALANCE
+----------------------------------------------------------------------------------------------------------------------
+ 15-12-2016  C BY CASH                                                                   34,500.00      5,35,947.64Cr
+ 16-12-2016  T CWDR/635121109898/16-12-2016                                 2,020.00                    5,33,927.64Cr
+ 19-12-2016  C BY CASH                                                                   13,000.00      5,46,927.64Cr
+ 20-12-2016  T CWDR/635512009228/20-12-2016                                 1,020.00                    5,45,907.64Cr
+ 23-12-2016  T CWDR/000000002812/23-12-2016                                 2,520.00                    5,43,387.64Cr
+ 26-12-2016  C SELF                                   661488               25,000.00                    5,18,387.64Cr
+ 28-12-2016  C BY CASH                                                                    2,000.00      5,20,387.64Cr
+ 28-12-2016  C SELF                                   661490               10,000.00                    5,10,387.64Cr
+ 29-12-2016  L SARASWATI SAREES                       661489               34,000.00                    4,76,387.64Cr
+ 29-12-2016  C BY CASH                                                                    2,000.00      4,78,387.64Cr
+ 29-12-2016  T POS/PRCR/636410736355/29-12-2                                1,686.40                    4,76,701.24Cr
+ 30-12-2016  C BY CASH                                                                    4,000.00      4,80,701.24Cr
+ 30-12-2016  T CWDR/636522183863/30-12-2016                                   320.00                    4,80,381.24Cr
+ 31-12-2016  C SELF                                   661491               10,200.00                    4,70,181.24Cr
+ 04-01-2017  T ACH/UCBA0000000000303511/HDBF                                3,797.00                    4,66,384.24Cr
+ 04-01-2017  T ACH/UCBA0000000000303512/HDBF                                3,517.00                    4,62,867.24Cr
+ 05-01-2017  C SELF                                   661492               50,000.00                    4,12,867.24Cr
+ 05-01-2017  L BY INST 372623 : MICR OW CLG                                              35,000.00      4,47,867.24Cr
+ 11-01-2017  L KHUSBOO SAREE                          661493                9,800.00                    4,38,067.24Cr
+ 13-01-2017  C SELF                                   661496               50,000.00                    3,88,067.24Cr
+ 13-01-2017  T Cheque Book Charges                                            150.00                    3,87,917.24Cr
+ 16-01-2017  L OBAIDULLA PURKAIT                      661495               20,000.00                    3,67,917.24Cr
+ 18-01-2017  L KRISHNA INTERNATIONAL                  661498               95,100.00                    2,72,817.24Cr
+----------------------------------------------------------------------------------------------------------------------
+  Page Total:                                                    3,19,130.40      90,500.00     2,72,817.24Cr
+----------------------------------------------------------------------------------------------------------------------
+T - Transfer        C - Cash         L - Clearing
+Cheque Issued Charg - Charge for Cheque Book Issuance, ACCOUNT MAINTENENCE CHG - Charges for Inoperative Account,
+Chq. Retn Chargs- Charge for Dishonoured cheque,To Clg. Collection Chgrs - Charge for collection of outstation cheque,
+Ledger Folio Charge-Charges for Ledger Folio Maintenance,Min. BAL Chrg-Charge for Minimum Balance,
+To ISL-Charge for InterSol Transaction,Commitment Charges-Charge for account balance maintaining below sanction limit.
+
+Unless the constituent notifies the bank
+immediately of any discrepancy found
+by him in this statement of Account,
+it will be  taken  that he has found
+the account correct.                                Date Stamp             Manager
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------
+
+      DATE     PARTICULARS                            CHQ.NO.    WITHDRAWALS       DEPOSITS      BALANCE
+----------------------------------------------------------------------------------------------------------------------
+ 18-01-2017  L KRISHNA INTERNATIONAL                  661497               95,100.00                    1,77,717.24Cr
+ 20-01-2017  L PRABHAT TRADING                        661499             1,00,000.00                      77,717.24Cr
+ 27-01-2017  L KHUSBOO SAREE                          661500               13,300.00                      64,417.24Cr
+ 30-01-2017  T MPAY/TRTR/702912071377/29-01-                                              4,770.00        69,187.24Cr
+ 30-01-2017  T MPAY/TRTR/702912072356/29-01-                                              4,770.00        73,957.24Cr
+ 30-01-2017  T MPAY/TRTR/702912072598/29-01-                                              4,770.00        78,727.24Cr
+ 30-01-2017  T MPAY/TRTR/702913075597/29-01-                                              4,770.00        83,497.24Cr
+ 30-01-2017  T MPAY/TRTR/702913076084/29-01-                                              4,770.00        88,267.24Cr
+ 30-01-2017  T MPAY/TRTR/702913076318/29-01-                                              4,770.00        93,037.24Cr
+ 30-01-2017  T MPAY/TRTR/702913076521/29-01-                                              4,770.00        97,807.24Cr
+ 30-01-2017  T MPAY/TRTR/702913076688/29-01-                                              4,770.00      1,02,577.24Cr
+ 30-01-2017  T MPAY/TRTR/702913077482/29-01-                                              4,770.00      1,07,347.24Cr
+ 30-01-2017  T MPAY/TRTR/702913077675/29-01-                                              4,770.00      1,12,117.24Cr
+ 30-01-2017  T MPAY/TRTR/702914077856/29-01-                                              4,770.00      1,16,887.24Cr
+ 30-01-2017  T MPAY/TRTR/702914078122/29-01-                                              4,770.00      1,21,657.24Cr
+ 30-01-2017  T MPAY/TRTR/702914078369/29-01-                                              4,770.00      1,26,427.24Cr
+ 30-01-2017  T MPAY/TRTR/702914078776/29-01-                                              4,770.00      1,31,197.24Cr
+ 30-01-2017  T MPAY/TRTR/702914078942/29-01-                                              4,770.00      1,35,967.24Cr
+ 30-01-2017  T MPAY/TRTR/702914079182/29-01-                                              4,770.00      1,40,737.24Cr
+ 30-01-2017  T MPAY/TRTR/702914079447/29-01-                                              4,770.00      1,45,507.24Cr
+ 30-01-2017  T CWDR/702917003720/29-01-2017                                10,020.00                    1,35,487.24Cr
+ 30-01-2017  T NEFT/NBM MARKETING PVT LT    1                              77,500.00                      57,987.24Cr
+ 31-01-2017  L BY INST 63 : MICR OW CLG                                                  18,960.00        76,947.24Cr
+----------------------------------------------------------------------------------------------------------------------
+  Page Total:                                                    2,95,920.00    1,00,050.00       76,947.24Cr
+----------------------------------------------------------------------------------------------------------------------
+T - Transfer        C - Cash         L - Clearing
+Cheque Issued Charg - Charge for Cheque Book Issuance, ACCOUNT MAINTENENCE CHG - Charges for Inoperative Account,
+Chq. Retn Chargs- Charge for Dishonoured cheque,To Clg. Collection Chgrs - Charge for collection of outstation cheque,
+Ledger Folio Charge-Charges for Ledger Folio Maintenance,Min. BAL Chrg-Charge for Minimum Balance,
+To ISL-Charge for InterSol Transaction,Commitment Charges-Charge for account balance maintaining below sanction limit.
+
+Unless the constituent notifies the bank
+immediately of any discrepancy found
+by him in this statement of Account,
+it will be  taken  that he has found
+the account correct.                                Date Stamp             Manager
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------
+
+      DATE     PARTICULARS                            CHQ.NO.    WITHDRAWALS       DEPOSITS      BALANCE
+----------------------------------------------------------------------------------------------------------------------
+ 31-01-2017  T MPAY/TRTR/703120286320/31-01-                                              4,770.00        81,717.24Cr
+ 31-01-2017  T MPAY/TRTR/703120287040/31-01-                                              4,770.00        86,487.24Cr
+ 31-01-2017  T MPAY/TRTR/703120287624/31-01-                                              4,770.00        91,257.24Cr
+ 31-01-2017  T MPAY/TRTR/703120288180/31-01-                                              4,770.00        96,027.24Cr
+ 31-01-2017  T MPAY/TRTR/703120288717/31-01-                                              4,770.00      1,00,797.24Cr
+ 31-01-2017  T MPAY/TRTR/703120289227/31-01-                                              4,770.00      1,05,567.24Cr
+ 31-01-2017  T MPAY/TRTR/703120289656/31-01-                                              4,770.00      1,10,337.24Cr
+ 31-01-2017  T MPAY/TRTR/703120290446/31-01-                                              4,770.00      1,15,107.24Cr
+ 31-01-2017  T MPAY/TRTR/703120291061/31-01-                                              4,662.00      1,19,769.24Cr
+ 31-01-2017  T MPAY/TRTR/703120291634/31-01-                                              4,661.00      1,24,430.24Cr
+ 31-01-2017  T CWDR/703121004729/31-01-2017                                10,020.00                    1,14,410.24Cr
+ 01-02-2017  T MPAY/TRTR/703207320185/01-02-                                              2,887.00      1,17,297.24Cr
+ 01-02-2017  T MPAY/TRTR/703207320718/01-02-                                              2,660.00      1,19,957.24Cr
+ 01-02-2017  T MPAY/TRTR/703207321142/01-02-                                              2,660.00      1,22,617.24Cr
+ 01-02-2017  T MPAY/TRTR/703207321564/01-02-                                              2,660.00      1,25,277.24Cr
+ 01-02-2017  T MPAY/TRTR/703207321972/01-02-                                              2,662.00      1,27,939.24Cr
+ 01-02-2017  T MPAY/TRTR/703207322318/01-02-                                              4,662.00      1,32,601.24Cr
+ 01-02-2017  T MPAY/TRTR/703207322525/01-02-                                              4,770.00      1,37,371.24Cr
+ 01-02-2017  T MPAY/TRTR/703208323328/01-02-                                              4,770.00      1,42,141.24Cr
+ 01-02-2017  T MPAY/TRTR/703208323629/01-02-                                              4,770.00      1,46,911.24Cr
+ 01-02-2017  T MPAY/TRTR/703208323852/01-02-                                              4,770.00      1,51,681.24Cr
+ 01-02-2017  T MPAY/TRTR/703208324166/01-02-                                              4,770.00      1,56,451.24Cr
+ 01-02-2017  T MPAY/TRTR/703208324509/01-02-                                              4,770.00      1,61,221.24Cr
+----------------------------------------------------------------------------------------------------------------------
+  Page Total:                                                      10,020.00      94,294.00     1,61,221.24Cr
+----------------------------------------------------------------------------------------------------------------------
+T - Transfer        C - Cash         L - Clearing
+Cheque Issued Charg - Charge for Cheque Book Issuance, ACCOUNT MAINTENENCE CHG - Charges for Inoperative Account,
+Chq. Retn Chargs- Charge for Dishonoured cheque,To Clg. Collection Chgrs - Charge for collection of outstation cheque,
+Ledger Folio Charge-Charges for Ledger Folio Maintenance,Min. BAL Chrg-Charge for Minimum Balance,
+To ISL-Charge for InterSol Transaction,Commitment Charges-Charge for account balance maintaining below sanction limit.
+
+Unless the constituent notifies the bank
+immediately of any discrepancy found
+by him in this statement of Account,
+it will be  taken  that he has found
+the account correct.                                Date Stamp             Manager
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------
+
+      DATE     PARTICULARS                            CHQ.NO.    WITHDRAWALS       DEPOSITS      BALANCE
+----------------------------------------------------------------------------------------------------------------------
+ 01-02-2017  T MPAY/TRTR/703208324982/01-02-                                              4,770.00      1,65,991.24Cr
+ 01-02-2017  T MPAY/TRTR/703208325380/01-02-                                              4,770.00      1,70,761.24Cr
+ 01-02-2017  T MPAY/TRTR/703209331684/01-02-                                                167.00      1,70,928.24Cr
+ 02-02-2017  L BY INST 20554 : MICR OW CLG                                               22,480.00      1,93,408.24Cr
+ 02-02-2017  T NEFT/NBM MARKETING PVT LT    5                            1,00,000.00                      93,408.24Cr
+ 02-02-2017  C SELF                                        6               10,000.00                      83,408.24Cr
+ 03-02-2017  C BY CASH                                                                   40,000.00      1,23,408.24Cr
+ 03-02-2017  L KANHAIYA EXPRESS                            2                3,660.00                    1,19,748.24Cr
+ 03-02-2017  L KOHINOOR ZARI STORES                        3               27,000.00                      92,748.24Cr
+ 04-02-2017  T ACH/UCBA0000000000303511/HDBF                                3,797.00                      88,951.24Cr
+ 04-02-2017  T ACH/UCBA0000000000303512/HDBF                                3,517.00                      85,434.24Cr
+ 04-02-2017  L NAVEEN B JHAWAR                             4               17,588.00                      67,846.24Cr
+ 07-02-2017  T MPAY/TRTR/703810961041/07-02-                                              4,770.00        72,616.24Cr
+ 07-02-2017  T MPAY/TRTR/703810961537/07-02-                                              4,770.00        77,386.24Cr
+ 07-02-2017  T MPAY/TRTR/703810962266/07-02-                                              4,770.00        82,156.24Cr
+ 07-02-2017  T MPAY/TRTR/703810962949/07-02-                                              4,770.00        86,926.24Cr
+ 07-02-2017  T MPAY/TRTR/703810963290/07-02-                                              4,770.00        91,696.24Cr
+ 07-02-2017  C BY CASH                                                                 1,00,000.00      1,91,696.24Cr
+ 07-02-2017  C SELF                                       11             1,00,000.00                      91,696.24Cr
+ 07-02-2017  L BY INST 45231 : MICR OW CLG                                                8,320.00      1,00,016.24Cr
+ 07-02-2017  T MNST/703816122325/07-02-2017                                     8.00                    1,00,008.24Cr
+ 07-02-2017  T MPAY/TRTR/703817000350/07-02-                                              3,280.00      1,03,288.24Cr
+ 08-02-2017  T MPAY/TRTR/703908044745/08-02-                                              4,655.00      1,07,943.24Cr
+----------------------------------------------------------------------------------------------------------------------
+  Page Total:                                                    2,65,570.00    2,12,292.00     1,07,943.24Cr
+----------------------------------------------------------------------------------------------------------------------
+T - Transfer        C - Cash         L - Clearing
+Cheque Issued Charg - Charge for Cheque Book Issuance, ACCOUNT MAINTENENCE CHG - Charges for Inoperative Account,
+Chq. Retn Chargs- Charge for Dishonoured cheque,To Clg. Collection Chgrs - Charge for collection of outstation cheque,
+Ledger Folio Charge-Charges for Ledger Folio Maintenance,Min. BAL Chrg-Charge for Minimum Balance,
+To ISL-Charge for InterSol Transaction,Commitment Charges-Charge for account balance maintaining below sanction limit.
+
+Unless the constituent notifies the bank
+immediately of any discrepancy found
+by him in this statement of Account,
+it will be  taken  that he has found
+the account correct.                                Date Stamp             Manager
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------
+
+      DATE     PARTICULARS                            CHQ.NO.    WITHDRAWALS       DEPOSITS      BALANCE
+----------------------------------------------------------------------------------------------------------------------
+ 08-02-2017  T MPAY/TRTR/703908045025/08-02-                                              4,655.00      1,12,598.24Cr
+ 08-02-2017  T MPAY/TRTR/703908045463/08-02-                                              4,650.00      1,17,248.24Cr
+ 08-02-2017  T MPAY/TRTR/703908045772/08-02-                                              4,655.00      1,21,903.24Cr
+ 08-02-2017  T MPAY/TRTR/703908046279/08-02-                                              4,650.00      1,26,553.24Cr
+ 08-02-2017  T MPAY/TRTR/703909046682/08-02-                                              4,650.00      1,31,203.24Cr
+ 08-02-2017  T MPAY/TRTR/703909047518/08-02-                                              4,650.00      1,35,853.24Cr
+ 08-02-2017  T MPAY/TRTR/703909048060/08-02-                                              4,655.00      1,40,508.24Cr
+ 08-02-2017  T MPAY/TRTR/703909048378/08-02-                                              4,655.00      1,45,163.24Cr
+ 08-02-2017  T MPAY/TRTR/703909048777/08-02-                                              4,626.00      1,49,789.24Cr
+ 08-02-2017  C BY CASH                                                                   30,000.00      1,79,789.24Cr
+ 08-02-2017  T NEFT/GREEN STAR TECH SUPP    14                             99,000.00                      80,789.24Cr
+ 09-02-2017  L BY INST 44000 : MICR OW CLG                                               20,000.00      1,00,789.24Cr
+ 10-02-2017  L JANEALAM KHAN                               9               15,650.00                      85,139.24Cr
+ 10-02-2017  L SK ALFA                                     8               13,200.00                      71,939.24Cr
+ 15-02-2017  T CWDR/704617021430/15-02-2017                                   320.00                      71,619.24Cr
+ 16-02-2017  L MANGLAM TRADING CO                         15               58,772.00                      12,847.24Cr
+ 16-02-2017  L BY INST 123863 : MICR OW CLG                                               2,765.00        15,612.24Cr
+ 16-02-2017  L BY INST 45236 : MICR OW CLG                                               15,800.00        31,412.24Cr
+ 17-02-2017  L BY INST 146740 : MICR OW CLG                                              20,000.00        51,412.24Cr
+ 17-02-2017  T CWDR/704819005103/17-02-2017                                 5,220.00                      46,192.24Cr
+ 18-02-2017  L REJECT:^146740^:^FUNDS INSUFF                               20,000.00                      26,192.24Cr
+ 18-02-2017  C BY CASH                                                                   26,000.00        52,192.24Cr
+ 18-02-2017  T CHQ RETURN CHRGS                                                91.30                      52,100.94Cr
+----------------------------------------------------------------------------------------------------------------------
+  Page Total:                                                    2,12,253.30    1,56,411.00       52,100.94Cr
+----------------------------------------------------------------------------------------------------------------------
+T - Transfer        C - Cash         L - Clearing
+Cheque Issued Charg - Charge for Cheque Book Issuance, ACCOUNT MAINTENENCE CHG - Charges for Inoperative Account,
+Chq. Retn Chargs- Charge for Dishonoured cheque,To Clg. Collection Chgrs - Charge for collection of outstation cheque,
+Ledger Folio Charge-Charges for Ledger Folio Maintenance,Min. BAL Chrg-Charge for Minimum Balance,
+To ISL-Charge for InterSol Transaction,Commitment Charges-Charge for account balance maintaining below sanction limit.
+
+Unless the constituent notifies the bank
+immediately of any discrepancy found
+by him in this statement of Account,
+it will be  taken  that he has found
+the account correct.                                Date Stamp             Manager
+
+
+ 
+----------------------------------------------------------------------------------------------------------------------
+
+      DATE     PARTICULARS                            CHQ.NO.    WITHDRAWALS       DEPOSITS      BALANCE
+----------------------------------------------------------------------------------------------------------------------
+ 18-02-2017  T CHQ RETURNED INTT. CHARGED                                      25.00                      52,075.94Cr
+ 18-02-2017  T service charge on chq retd                                      13.70                      52,062.24Cr
+ 18-02-2017  T CHQ RETURN CHRGS                                                91.30                      51,970.94Cr
+ 18-02-2017  T CHQ RETURN CHRGS-SER.TAX                                        13.70                      51,957.24Cr
+ 20-02-2017  L MANSUKH PRINTS                              7               27,500.00                      24,457.24Cr
+ 21-02-2017  C TO CASH                                    16               23,000.00                       1,457.24Cr
+ 23-02-2017  L BY INST 856169 : MICR OW CLG                                              40,000.00        41,457.24Cr
+----------------------------------------------------------------------------------------------------------------------
+  Page Total:                                                      50,643.70      40,000.00       41,457.24Cr
+----------------------------------------------------------------------------------------------------------------------
+    Grand Total:                                                22,09,639.76   22,51,097.00       41,457.24Cr
+----------------------------------------------------------------------------------------------------------------------
+
+T - Transfer        C - Cash         L - Clearing
+Cheque Issued Charg - Charge for Cheque Book Issuance, ACCOUNT MAINTENENCE CHG - Charges for Inoperative Account,
+Chq. Retn Chargs- Charge for Dishonoured cheque,To Clg. Collection Chgrs - Charge for collection of outstation cheque,
+Ledger Folio Charge-Charges for Ledger Folio Maintenance,Min. BAL Chrg-Charge for Minimum Balance,
+To ISL-Charge for InterSol Transaction,Commitment Charges-Charge for account balance maintaining below sanction limit.
+
+Unless the constituent notifies the bank
+immediately of any discrepancy found
+by him in this statement of Account,
+it will be  taken  that he has found
+the account correct.                                Date Stamp             Manager
+
+
+****END OF STATEMENT****

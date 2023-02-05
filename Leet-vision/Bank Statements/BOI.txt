@@ -1,0 +1,1376 @@
+
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+      01-Feb-2016  IMPS/RRN: 603113572146/kumar                                                    10.00              56.00
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      01-Feb-2016  Exceed Free SMS Limit                                          17.18                               38.82
+      01-FEB-2016  B/F                                                                                                46.00
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      02-Feb-2016  IMPS/RRN: 603313494549/kumar                                                   800.00             838.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      02-Feb-2016  CWDR//173087/00064030                                         800.00                               38.82
+      02-Feb-2016  CWRR//173087/00064030                                                          800.00             838.82
+      02-Feb-2016  CWDR//641206/00064030                                         800.00                               38.82
+      02-Feb-2016  IMPS/RRN: 603314644228/0202166                                               1,450.00           1,488.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      03-Feb-2016  IMPS/RRN: 603409838787/0302166                                               2,450.00           3,938.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      03-Feb-2016  CWDR//783635/09770001                                       3,900.00                               38.82
+      04-Feb-2016  IMPS/RRN: 603509135019/0402166                                               3,030.00           3,068.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      05-Feb-2016  Int:01-08-2015/31-01-2016                                                       12.00           3,080.82
+      06-Feb-2016  IMPS/RRN: 603713328225/rajeev                                                1,900.00           4,980.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      06-Feb-2016  IMPS/RRN: 603713331243/kumar                                                    40.00           5,020.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      06-Feb-2016  CWDR//196079/03157001                                       5,020.00                                0.82
+      08-Feb-2016  IMPS/RRN: 603811175865/kumar                                                   300.00             300.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      09-Feb-2016  IMPS/RRN: 604015669182/kumar                                                 2,900.00           3,200.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      11-Feb-2016  CWDR//294285/FCK8014                                        3,000.00                              200.82
+      11-Feb-2016  CWDR//294287/FCK8014                                          200.00                                0.82
+      12-Feb-2016  IMPS/RRN: 604311065955/kumar                                                   450.00             450.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      12-Feb-2016  IMPS/RRN: 604312285063/kumar                                                 1,400.00           1,850.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      12-Feb-2016  ATM Card Maint Charge                                          60.00                            1,790.82
+      22-Feb-2016  IMPS/RRN: 605218931657/Rajeev                                                  200.00           1,990.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      23-Feb-2016  IMPS/RRN: 605409554491/kumar                                                   400.00           2,390.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      24-Feb-2016  CWDR//676447/03157001                                       2,020.00                              370.82
+      01-Mar-2016  IMPS/RRN: 606115464872/yrut                                                    700.00           1,070.82
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                         15,817.18           16,842.00              370.82Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:2
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                   15,817.18           16,842.            370.82Cr
+
+
+
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      02-Mar-2016  IMPS/RRN: 606213310679/yruy                                                  2,000.00           3,070.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      02-Mar-2016  IMPS/RRN: 606218155652/ituy                                                  2,000.00           5,070.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      03-Mar-2016  IMPS/RRN: 606309144614/utut                                                    500.00           5,570.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      03-Mar-2016  IMPS/RRN: 606309223226/yrur                                                  1,000.00           6,570.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      03-Mar-2016  CWDR//294231/FCK8014                                        6,500.00                               70.82
+      03-Mar-2016  IMPS/RRN: 606317043631/gfhjjj                                                1,000.00           1,070.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      04-Mar-2016  IMPS/RRN: 606408011810/ytye                                                  2,000.00           3,070.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      05-Mar-2016  IMPS/RRN: 606509025610/yrur                                                  2,000.00           5,070.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      05-Mar-2016  CWDR//355973/BCK9011                                        5,000.00                               70.82
+      10-Mar-2016  IMPS/RRN: 607017570812/ytur                                                  2,000.00           2,070.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      10-Mar-2016  IMPS/RRN: 607017920275/Rajeev                                                1,600.00           3,670.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      10-Mar-2016  IMPS/RRN: 607019112895/kuar                                                  2,000.00           5,670.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      11-Mar-2016  IMPS/RRN: 607109410756/tury                                                  1,000.00           6,670.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      11-Mar-2016  IMPS/RRN: 607109637474/Rajeev                                                   40.00           6,710.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      11-Mar-2016  CWDR//294227/FCK8014                                        6,700.00                               10.82
+      16-Mar-2016  IMPS/RRN: 607610111658/yrut                                                    600.00             610.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      21-Mar-2016  CWDR//294239/FCK8014                                          600.00                               10.82
+      21-Mar-2016  IMPS/RRN: 608115169530/2103169                                               2,400.00           2,410.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      21-Mar-2016  IMPS/RRN: 608116171027/2103169                                                  50.00           2,460.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      22-Mar-2016  CWDR//294449/FCK8014                                        2,400.00                               60.82
+      24-Mar-2016  IMPS/RRN: 608408021106/NA                                                      950.00           1,010.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      24-Mar-2016  IMPS/RRN: 608408021111/NA                                                      770.00           1,780.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      25-Mar-2016  IMPS/RRN: 608507374539/Kumar                                                 1,010.00           2,790.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      28-Mar-2016  IMPS/RRN: 608710454038/tuty                                                    800.00           3,590.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                         37,017.18           40,562.00            3,590.82Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:3
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                   37,017.18           40,562.          3,590.82Cr
+
+
+
+      28-Mar-2016  CWDR//463519/00064020                                       3,500.00                               90.82
+      28-Mar-2016  IMPS/RRN: 608816060924/utuu                                                  2,000.00           2,090.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      29-Mar-2016  IMPS/RRN: 608909053066/kumar                                                 2,000.00           4,090.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      29-Mar-2016  IMPS/RRN: 608909080096/kumar                                                 1,000.00           5,090.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      29-Mar-2016  IMPS/RRN: 608916304543/kumar                                                   900.00           5,990.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      29-Mar-2016  IMPS/RRN: 608917140863/kumar                                                   300.00           6,290.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      29-Mar-2016  IMPS/RRN: 608917383284/jghy                                                    500.00           6,790.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      30-Mar-2016  CWDR//650926/00064035                                       6,700.00                               90.82
+      12-Apr-2016  IMPS/RRN: 610310321119/ugit                                                  1,300.00           1,390.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      12-Apr-2016  IMPS/RRN: 610310967808/Rajeev                                                2,900.00           4,290.82
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      15-Apr-2016  SMSChargesQtrJAN16-MAR16+Servic                                17.18                            4,273.64
+      15-Apr-2016  CWDR//46078/SACWC910                                        4,000.00                              273.64
+      16-Apr-2016  IMPS/RRN: 610718043274/ughh                                                  2,000.00           2,273.64
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      18-Apr-2016  IMPS/RRN: 610808133171/uguy                                                  2,000.00           4,273.64
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      18-Apr-2016  IMPS/RRN: 610808644667/Rajeev                                                2,900.00           7,173.64
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      18-Apr-2016  IMPS/RRN: 610809093007/tufu                                                  1,300.00           8,473.64
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      18-Apr-2016  CWDR//72619/00213009                                        8,000.00                              473.64
+      18-Apr-2016  IMPS/RRN: 610907143682/utyt                                                  2,000.00           2,473.64
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      18-Apr-2016  IMPS/RRN: 610908674094/Rajeev                                                   30.00           2,503.64
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      19-Apr-2016  IMPS/RRN: 611008535982/ifug                                                    500.00           3,003.64
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      19-Apr-2016  IMPS/RRN: 611009005060/utig                                                  2,000.00           5,003.64
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      19-Apr-2016  IMPS/RRN: 611010145790/gxhu                                                    700.00           5,703.64
+                    SOL-ID 00000  NAVI MUMBAI (MAHARASHTRA )
+      19-Apr-2016  CWDR//700575/00064043                                       5,500.00                              203.64
+      28-Apr-2016  BY CASH-4465-PAKUR                                                             600.00             803.64
+                    SOL-ID 44650  PAKUR (DIST. PAKUR - JHARKHAND) (JHARKHAND )
+      03-May-2016  IMPS/RRN: 612412409671/0305161                                               3,950.00           4,753.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                         64,734.36           69,442.00            4,753.64Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:4
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                   64,734.36           69,442.          4,753.64Cr
+
+
+
+      03-May-2016  IMPS/RRN: 612412410530/0305161                                               4,900.00           9,653.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-May-2016  IMPS/RRN: 612412411287/P2BOTP_                                               4,800.00          14,453.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-May-2016  IMPS/RRN: 612413412782/P2BOTP_                                               4,800.00          19,253.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-May-2016  IMPS/RRN: 612413412929/P2BOTP_                                               4,800.00          24,053.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-May-2016  IMPS/RRN: 612413413829/0305161                                               4,900.00          28,953.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-May-2016  IMPS/RRN: 612413557959/MOBFA01                                               2,000.00          30,953.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-May-2016  IMPS/RRN: 612413417454/P2BOTP_                                               4,800.00          35,753.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-May-2016  IMPS/RRN: 612413417791/P2BOTP_                                               2,100.00          37,853.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-May-2016  IMPS/RRN: 612413558921/MOBFA01                                               2,000.00          39,853.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-May-2016  CWDR//555797/00064020                                      10,000.00                           29,853.64
+      03-May-2016  CWDR//722521/00064020                                      10,000.00                           19,853.64
+      03-May-2016  CWDR//613823/00064020                                       5,020.00                           14,833.64
+      03-May-2016  Exceeds free tran threshold on                                 10.00                           14,823.64
+      04-May-2016  Int:01-02-2016/30-04-2016                                                       11.00          14,834.64
+      04-May-2016  CWDR//473399/00064020                                      10,020.00                            4,814.64
+      04-May-2016  CWDR//581037/00064020                                       4,520.00                              294.64
+      04-May-2016  IMPS/RRN: 612511610284/MOBFA01                                               2,000.00           2,294.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-May-2016  IMPS/RRN: 612511611112/MOBFA01                                               2,000.00           4,294.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-May-2016  Exceeds free tran threshold on                                 10.00                            4,284.64
+      04-May-2016  CWDR//82784/12534001                                        4,020.00                              264.64
+      05-May-2016  IMPS/RRN: 612613207148/0505161                                               4,950.00           5,214.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-May-2016  IMPS/RRN: 612614231553/P2BOTP_                                               4,800.00          10,014.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-May-2016  IMPS/RRN: 612614231978/P2BOTP_                                               3,800.00          13,814.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-May-2016  IMPS/RRN: 612614680791/MOBFA02                                                 500.00          14,314.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-May-2016  IMPS/RRN: 612614237081/0505161                                               2,000.00          16,314.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-May-2016  CWDR//402975/00064020                                      10,020.00                            6,294.64
+      05-May-2016  CWDR//528285/00064020                                       6,020.00                              274.64
+      10-May-2016  IMPS/RRN: 613116323766/uguy                                                    500.00             774.64
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       1,24,374.36         1,25,103.00              274.64Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:5
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 1,24,374.36         1,25,103.            274.64Cr
+
+
+
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      12-May-2016  CWDR//294251/FCK8014                                          700.00                               74.64
+      16-May-2016  IMPS/RRN: 613614314410/yfug                                                  2,000.00           2,074.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-May-2016  IMPS/RRN: 613614848191/Rajeev                                                2,900.00           4,974.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-May-2016  IMPS/RRN: 613615310096/ufig                                                  2,000.00           6,974.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-May-2016  IMPS/RRN: 613615465089/ufig                                                  1,000.00           7,974.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-May-2016  IMPS/RRN: 613617604361/P2BOTP_                                               4,790.00          12,764.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-May-2016  IMPS/RRN: 613708674449/P2BOTP_                                               4,800.00          17,564.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-May-2016  IMPS/RRN: 613713470259/uguh                                                  1,800.00          19,364.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      17-May-2016  CWDR//618667/03157002                                      10,020.00                            9,344.64
+      17-May-2016  CWDR//747814/03157002                                       9,020.00                              324.64
+      25-May-2016  IMPS/RRN: 614612563494/2505162                                                  30.00             354.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      25-May-2016  IMPS/RRN: 614614270152/Rajeev                                                  100.00             454.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      25-May-2016  CWDR//294267/FCK8014                                          400.00                               54.64
+      30-May-2016  IMPS/RRN: 614910261308/ytut                                                    100.00             154.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Jun-2016  IMPS/RRN: 615408313489/0206162                                               4,950.00           5,104.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Jun-2016  IMPS/RRN: 615409314330/P2BOTP_                                               4,800.00           9,904.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Jun-2016  IMPS/RRN: 615409318316/P2BOTP_                                               4,800.00          14,704.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Jun-2016  CWDR//717121/03033007                                      10,000.00                            4,704.64
+      02-Jun-2016  CWDR//893043/03033007                                       4,500.00                              204.64
+      03-Jun-2016  NEFT-MANGY KUMAR                                                             5,000.00           5,204.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Jun-2016  CWDR//659428/03033007                                       5,000.00                              204.64
+      04-Jun-2016  IMPS/RRN: 615612035280/igig                                                  1,000.00           1,204.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Jun-2016  IMPS/RRN: 615612062110/arun                                                  1,930.00           3,134.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Jun-2016  IMPS/RRN: 615612084235/ufih                                                    900.00           4,034.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      06-Jun-2016  IMPS/RRN: 615708903840/arun                                                    900.00           4,934.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       1,64,014.36         1,68,903.00            4,934.64Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:6
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 1,64,014.36         1,68,903.          4,934.64Cr
+
+
+
+      06-Jun-2016  IMPS/RRN: 615708402361/ufiy                                                    998.00           5,932.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      06-Jun-2016  IMPS/RRN: 615708486168/P2BOTP_                                               4,800.00          10,732.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      06-Jun-2016  IMPS/RRN: 615709002315/arun                                                  1,930.00          12,662.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      06-Jun-2016  Exceeds free tran threshold on                                 10.00                           12,652.64
+      06-Jun-2016  CWDR//759998/03033007                                      10,020.00                            2,632.64
+      06-Jun-2016  CWDR//918702/03033007                                       2,520.00                              112.64
+      06-Jun-2016  Exceeds free tran threshold on                                 10.00                              102.64
+      08-Jun-2016  IMPS/RRN: 616008612244/0806163                                               4,900.00           5,002.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Jun-2016  IMPS/RRN: 616010544039/arun                                                  1,930.00           6,932.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Jun-2016  IMPS/RRN: 616016817298/0806163                                               1,200.00           8,132.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Jun-2016  CWDR//393311/03033007                                       8,020.00                              112.64
+      08-Jun-2016  Exceeds free tran threshold on                                 10.00                              102.64
+      09-Jun-2016  IMPS/RRN: 616108015246/0906163                                               4,900.00           5,002.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      09-Jun-2016  IMPS/RRN: 616108118488/arun                                                  2,800.00           7,802.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      09-Jun-2016  IMPS/RRN: 616108119246/arun                                                    100.00           7,902.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      09-Jun-2016  IMPS/RRN: 616110041436/P2BOTP_                                               4,800.00          12,702.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      09-Jun-2016  CWDR//427424/03157002                                      10,020.00                            2,682.64
+      09-Jun-2016  CWDR//517953/03157002                                       2,520.00                              162.64
+      09-Jun-2016  Exceeds free tran threshold on                                 10.00                              152.64
+      10-Jun-2016  NEFT-MANGY KUMAR                                                             2,500.00           2,652.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      10-Jun-2016  IMPS/RRN: 616217414363/yfut                                                  1,900.00           4,552.64
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      13-Jun-2016  CWDR//874347/03033007                                       4,520.00                               32.64
+      13-Jun-2016  Exceeds free tran threshold on                                 10.00                               22.64
+      17-Jun-2016  ATM Card Maint Charge                                          22.64                                0.00
+      27-Jun-2016  IMPS/RRN: 617910212691/2706164                                                  10.00              10.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      30-Jun-2016  IMPS/RRN: 618210511394/gxyct                                                 1,900.00           1,910.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      30-Jun-2016  IMPS/RRN: 618210383604/P2BOTP_                                               2,100.00           4,010.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      30-Jun-2016  IMPS/RRN: 618211113648/gxtgc                                                 1,900.00           5,910.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       2,01,707.00         2,07,571.00            5,910.00Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:7
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 2,01,707.00         2,07,571.          5,910.00Cr
+
+
+
+      30-Jun-2016  CWDR//44140/03157002                                        5,020.00                              890.00
+      30-Jun-2016  CWDR//227264/03157002                                         520.00                              370.00
+      30-Jun-2016  Exceeds free tran threshold on                                 10.00                              360.00
+      01-Jul-2016  IMPS/RRN: 618310491938/yriy                                                    660.00           1,020.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Jul-2016  CWDR//700556/03157001                                       1,000.00                               20.00
+      04-Jul-2016  IMPS/RRN: 618513890975/P2BOTP_                                               4,800.00           4,820.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Jul-2016  IMPS/RRN: 618513891623/P2BOTP_                                               4,800.00           9,620.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Jul-2016  IMPS/RRN: 618513892330/P2BOTP_                                               4,700.00          14,320.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Jul-2016  IMPS/RRN: 618513303577/goof                                                  1,900.00          16,220.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Jul-2016  IMPS/RRN: 618513365805/gcygdy                                                1,900.00          18,120.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Jul-2016  IMPS/RRN: 618513440729/fsgvg                                                   950.00          19,070.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Jul-2016  CWDR//294271/FCK8014                                       10,000.00                            9,070.00
+      04-Jul-2016  CWDR//294273/FCK8014                                        9,000.00                               70.00
+      05-Jul-2016  IMPS/RRN: 618716262183/yfug                                                    100.00             170.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-Jul-2016  IMPS/RRN: 618716341826/yfuv                                                     50.00             220.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      06-Jul-2016  IMPS/RRN: 618809886754/Test                                                  4,900.00           5,120.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      06-Jul-2016  NEFT-HDHDH YDHDHX                                                            2,500.00           7,620.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      06-Jul-2016  CWDR//595362/03157002                                       7,500.00                              120.00
+      08-Jul-2016  IMPS/RRN: 619017600367/MOBFA03                                               1,900.00           2,020.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Jul-2016  IMPS/RRN: 619017600463/MOBFA03                                               1,900.00           3,920.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      11-Jul-2016  IMPS/RRN: 619107613951/MOBFA03                                               1,298.00           5,218.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      11-Jul-2016  CWDR//343591/03033007                                       5,000.00                              218.00
+      13-Jul-2016  IMPS/RRN: 619514156687/P2BOTP_                                               4,800.00           5,018.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      13-Jul-2016  IMPS/RRN: 619514156936/P2BOTP_                                               2,800.00           7,818.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      13-Jul-2016  CWDR//593076/00213009                                       7,000.00                              818.00
+      13-Jul-2016  CWDR//778893/00213009                                         500.00                              318.00
+      13-Jul-2016  IMPS/RRN: 619515194324/P2BOTP_                                               1,900.00           2,218.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       2,47,257.00         2,49,429.00            2,218.00Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:8
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 2,47,257.00         2,49,429.          2,218.00Cr
+
+
+
+      14-Jul-2016  IMPS/RRN: 619610892158/MOBFA03                                                 290.00           2,508.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      15-Jul-2016  NEFT-KUMAR ROHAN                                                             2,500.00           5,008.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      15-Jul-2016  NEFT-KUMAR ROHAN                                                             2,500.00           7,508.00
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      15-Jul-2016  Exceeds free tran threshold on                                 10.00                            7,498.00
+      15-Jul-2016  CWDR//847647/02959001                                       7,020.00                              478.00
+      15-Jul-2016  CWDR//294396/FCK8014                                          400.00                               78.00
+      16-Jul-2016  SMSChargesQtrAPR16-JUN16+Servic                                17.25                               60.75
+      18-Jul-2016  IMPS/RRN: 620012604075/MOBFA03                                               1,900.00           1,960.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      18-Jul-2016  IMPS/RRN: 620012604375/MOBFA03                                                 512.00           2,472.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      18-Jul-2016  Exceeds free tran threshold on                                 10.00                            2,462.75
+      18-Jul-2016  CWDR//541478/03157002                                       2,020.00                              442.75
+      19-Jul-2016  IMPS/RRN: 620112657621/MOBFA03                                                 950.00           1,392.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      19-Jul-2016  IMPS/RRN: 620113664369/MOBFA03                                                  60.00           1,452.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      19-Jul-2016  IMPS/RRN: 620114308562/P2BOTP_                                                 105.00           1,557.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      19-Jul-2016  CWDR//81786/03157002                                        1,520.00                               37.75
+      19-Jul-2016  IMPS/RRN: 620115344015/P2BOTP_                                               1,900.00           1,937.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      20-Jul-2016  CWDR//390900/1FDDUM02                                       1,920.00                               17.75
+      20-Jul-2016  IMPS/RRN: 620214673635/P2BOTP_                                               4,800.00           4,817.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      20-Jul-2016  IMPS/RRN: 620214675171/P2BOTP_                                               4,800.00           9,617.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      20-Jul-2016  IMPS/RRN: 620214676195/2007165                                               4,900.00          14,517.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      20-Jul-2016  IMPS/RRN: 620214677424/P2BOTP_                                               4,800.00          19,317.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      20-Jul-2016  IMPS/RRN: 620214681712/P2BOTP_                                               4,800.00          24,117.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      20-Jul-2016  CWDR//719522/03157002                                      10,020.00                           14,097.75
+      20-Jul-2016  CWDR//789494/03157002                                      10,020.00                            4,077.75
+      21-Jul-2016  IMPS/RRN: 620311761015/2107164                                               2,400.00           6,477.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      21-Jul-2016  IMPS/RRN: 620311756077/MOBFA03                                               1,900.00           8,377.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      21-Jul-2016  IMPS/RRN: 620311711254/arum                                                  2,300.00          10,677.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       2,80,214.25         2,90,846.00           10,677.75Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:9
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 2,80,214.25         2,90,846.         10,677.75Cr
+
+
+
+      21-Jul-2016  IMPS/RRN: 620311756216/MOBFA03                                                 900.00          11,577.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      21-Jul-2016  IMPS/RRN: 620311183529/NA                                                    1,400.00          12,977.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      21-Jul-2016  Exceeds free tran threshold on                                 10.00                           12,967.75
+      21-Jul-2016  Exceeds free tran threshold on                                 10.00                           12,957.75
+      21-Jul-2016  CWDR//264158/03033007                                      10,020.00                            2,937.75
+      21-Jul-2016  CWDR//434590/03033007                                       2,520.00                              417.75
+      22-Jul-2016  IMPS/RRN: 620416427574/P2BOTP_                                               1,000.00           1,417.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      25-Jul-2016  IMPS/RRN: 620610957544/P2BOTP_                                               4,800.00           6,217.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      25-Jul-2016  IMPS/RRN: 620610518801/arun                                                  1,500.00           7,717.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      25-Jul-2016  IMPS/RRN: 620610520104/pooja                                                 3,900.00          11,617.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      25-Jul-2016  IMPS/RRN: 620611603709/arun                                                    400.00          12,017.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      25-Jul-2016  CWDR//59007/03033007                                       10,020.00                            1,997.75
+      25-Jul-2016  CWRR//59007/03033007                                                        10,020.00          12,017.75
+      25-Jul-2016  Exceeds free tran threshold on                                 10.00                           12,007.75
+      25-Jul-2016  CWDR//216497/03033007                                      10,020.00                            1,987.75
+      25-Jul-2016  CWDR//321738/03033007                                       1,520.00                              467.75
+      25-Jul-2016  IMPS/RRN: 620709194590/NA                                                    1,350.00           1,817.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      25-Jul-2016  IMPS/RRN: 620709185787/2507165                                               5,000.00           6,817.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      25-Jul-2016  IMPS/RRN: 620709186712/2507165                                                 800.00           7,617.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      26-Jul-2016  CWDR//242226/03157002                                       6,020.00                            1,597.75
+      26-Jul-2016  CWDR//333227/03157002                                       1,520.00                               77.75
+      27-Jul-2016  IMPS/RRN: 620911074564/P2BOTP_                                               1,800.00           1,877.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      27-Jul-2016  IMPS/RRN: 620912116674/P2BOTP_                                               1,000.00           2,877.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      27-Jul-2016  IMPS/RRN: 620913132729/P2BOTP_                                                 200.00           3,077.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      27-Jul-2016  IMPS/RRN: 620915206497/P2BOTP_                                                 950.00           4,027.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      28-Jul-2016  IMPS/RRN: 621009404414/P2BOTP_                                                 500.00           4,527.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      28-Jul-2016  IMPS/RRN: 621014005570/remarks                                                   1.00           4,528.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      28-Jul-2016  CWDR//336599/M21N0082                                       4,020.00                              508.75
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       3,25,904.25         3,26,367.00              508.75Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:10
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 3,25,904.25         3,26,367.            508.75Cr
+
+
+
+      01-Aug-2016  IMPS/RRN: 621410803894/MOBFA03                                               1,900.00           2,408.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Aug-2016  IMPS/RRN: 621411808019/MOBFA03                                               1,900.00           4,308.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Aug-2016  IMPS/RRN: 621411811230/MOBFA03                                                 500.00           4,808.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Aug-2016  CWDR//969167/12534001                                       4,500.00                              308.75
+      02-Aug-2016  IMPS/RRN: 621510649669/0208166                                               5,000.00           5,308.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Aug-2016  IMPS/RRN: 621510650736/0208166                                                 300.00           5,608.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Aug-2016  IMPS/RRN: 621510651607/0208166                                                 100.00           5,708.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Aug-2016  IMPS/RRN: 621510889404/MOBFA03                                               1,900.00           7,608.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-Aug-2016  Int:01-05-2016/31-07-2016                                                       12.00           7,620.75
+      03-Aug-2016  IMPS/RRN: 621611215693/0308166                                               2,200.00           9,820.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-Aug-2016  CWDR//660777/12534001                                       9,500.00                              320.75
+      08-Aug-2016  IMPS/RRN: 622006684872/rajeev                                                1,900.00           2,220.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Aug-2016  IMPS/RRN: 622007729232/MOBFA03                                               1,900.00           4,120.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Aug-2016  IMPS/RRN: 622007729296/MOBFA03                                               1,900.00           6,020.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Aug-2016  IMPS/RRN: 622007729678/MOBFA03                                               1,900.00           7,920.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Aug-2016  CWDR//683759/09770001                                       7,900.00                               20.75
+      08-Aug-2016  IMPS/RRN: 622013749149/MOBFA03                                               1,900.00           1,920.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Aug-2016  IMPS/RRN: 622013051383/0708166                                               4,900.00           6,820.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Aug-2016  CWDR//905053/03033007                                       5,000.00                            1,820.75
+      08-Aug-2016  CWDR//176924/03033007                                       1,500.00                              320.75
+      08-Aug-2016  IMPS/RRN: 622110779494/MOBFA03                                               1,930.00           2,250.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Aug-2016  IMPS/RRN: 622110779788/MOBFA03                                                 999.00           3,249.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Aug-2016  IMPS/RRN: 622110780469/MOBFA03                                                 900.00           4,149.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Aug-2016  NEFT-KUMAR ROHAN                                                             2,500.00           6,649.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Aug-2016  Exceeds free tran threshold on                                 10.00                            6,639.75
+      08-Aug-2016  CWDR//931172/03033007                                       6,520.00                              119.75
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       3,60,834.25         3,60,908.00              119.75Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:11
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 3,60,834.25         3,60,908.            119.75Cr
+
+
+
+      09-Aug-2016  IMPS/RRN: 622209078002/Rahul                                                 2,500.00           2,619.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      09-Aug-2016  CWDR//553871/03033007                                       2,020.00                              599.75
+      09-Aug-2016  CWDR//707779/03033007                                         520.00                               79.75
+      10-Aug-2016  IMPS/RRN: 622310916247/MOBFA03                                               1,900.00           1,979.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      12-Aug-2016  IMPS/RRN: 622510539060/MOBFA03                                                  80.00           2,059.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      12-Aug-2016  CWDR//3549/03157001                                         2,020.00                               39.75
+      16-Aug-2016  IMPS/RRN: 622616915970/1308167                                               4,900.00           4,939.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Aug-2016  CWDR//997513/00064020                                       4,520.00                              419.75
+      16-Aug-2016  IMPS/RRN: 622911651011/1608167                                               1,200.00           1,619.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Aug-2016  IMPS/RRN: 622916788758/mama                                                  1,900.00           3,519.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      17-Aug-2016  CWDR//356008/BCK9013                                        3,500.00                               19.75
+      22-Aug-2016  IMPS/RRN: 623515210732/mama                                                  2,000.00           2,019.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      22-Aug-2016  IMPS/RRN: 623515213589/mama                                                  1,900.00           3,919.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      22-Aug-2016  IMPS/RRN: 623517357106/mama                                                    100.00           4,019.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      23-Aug-2016  CWDR//925507/SACWC910                                       3,520.00                              499.75
+      23-Aug-2016  CWDR//877193/00213012                                         420.00                               79.75
+      30-Aug-2016  IMPS/RRN: 624309772470/arun                                                  3,800.00           3,879.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      30-Aug-2016  CWDR//786943/03157002                                       3,520.00                              359.75
+      30-Aug-2016  IMPS/RRN: 624314093648/arun                                                  2,400.00           2,759.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      30-Aug-2016  IMPS/RRN: 624314095047/arun                                                    100.00           2,859.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      30-Aug-2016  IMPS/RRN: 624315588026/MOBFA04                                               1,900.00           4,759.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      30-Aug-2016  IMPS/RRN: 624315588481/MOBFA04                                                 900.00           5,659.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      30-Aug-2016  CWDR//294231/FCK8014                                        5,000.00                              659.75
+      30-Aug-2016  CWRR//294231/FCK8014                                                         5,000.00           5,659.75
+      30-Aug-2016  CWDR//294233/FCK8014                                          500.00                            5,159.75
+      30-Aug-2016  CWRR//294233/FCK8014                                                           500.00           5,659.75
+      31-Aug-2016  CWDR//981970/03157002                                       5,520.00                              139.75
+      01-Sep-2016  IMPS/RRN: 624513733830/MOBFA04                                               1,900.00           2,039.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Sep-2016  NEFT-RELIANCE PAYMENT SOLUTIONS                                                100.00           2,139.75
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       3,91,894.25         3,93,988.00            2,039.75Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:12
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 3,91,894.25         3,93,988.          2,039.75Cr
+
+
+
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Sep-2016  IMPS/RRN: 624612197269/Test                                                    450.00           2,589.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Sep-2016  IMPS/RRN: 624616840559/MOBFA04                                               1,900.00           4,489.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-Sep-2016  IMPS/RRN: 624711833021/kumar                                                 5,000.00           9,489.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-Sep-2016  IMPS/RRN: 624711842397/rdhhf                                                   800.00          10,289.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-Sep-2016  CWDR//978721/03033007                                      10,000.00                              289.75
+      05-Sep-2016  IMPS/RRN: 624810220492/0409168                                               5,000.00           5,289.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-Sep-2016  IMPS/RRN: 624810221230/0409168                                               1,400.00           6,689.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-Sep-2016  CWDR//294310/FCK8014                                        6,500.00                              189.75
+      05-Sep-2016  IMPS/RRN: 624910341814/NA                                                    1,300.00           1,489.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      06-Sep-2016  NEFT-TRANSERV PRIVATE LIMITED                                                1,400.00           2,889.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Sep-2016  IMPS/RRN: 625112662919/MOBFA04                                               1,900.00           4,789.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Sep-2016  IMPS/RRN: 625112663265/MOBFA04                                               1,900.00           6,689.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Sep-2016  IMPS/RRN: 625113664374/MOBFA04                                               1,900.00           8,589.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Sep-2016  IMPS/RRN: 625113664887/MOBFA04                                               1,900.00          10,489.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Sep-2016  IMPS/RRN: 625113665030/MOBFA04                                               1,900.00          12,389.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Sep-2016  IMPS/RRN: 625113772026/0709168                                               4,500.00          16,889.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Sep-2016  IMPS/RRN: 625113773605/0709168                                               2,300.00          19,189.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Sep-2016  IMPS/RRN: 625113911841/Raj                                                   5,000.00          24,189.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Sep-2016  IMPS/RRN: 625113912545/Taj                                                   2,200.00          26,389.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Sep-2016  CWDR//822472/03157002                                      10,000.00                           16,389.75
+      07-Sep-2016  CWDR//937516/03157002                                      10,000.00                            6,389.75
+      07-Sep-2016  CWDR//36011/03157002                                        5,000.00                            1,389.75
+      08-Sep-2016  IMPS/RRN: 625212268015/0809168                                               4,900.00           6,289.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Sep-2016  IMPS/RRN: 625212271557/0809168                                               1,500.00           7,789.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       4,33,394.25         4,41,138.00            7,789.75Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:13
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 4,33,394.25         4,41,138.          7,789.75Cr
+
+
+
+      08-Sep-2016  CWDR//294331/FCK8014                                        7,500.00                              289.75
+      08-Sep-2016  IMPS/RRN: 625216053281/arun                                                  3,800.00           4,089.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Sep-2016  CWDR//705714/12534001                                       4,020.00                               69.75
+      12-Sep-2016  IMPS/RRN: 625509636306/arun                                                  2,900.00           2,969.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      12-Sep-2016  IMPS/RRN: 625610028267/1209168                                               5,000.00           7,969.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      12-Sep-2016  IMPS/RRN: 625610968562/MOBFA04                                                  50.00           8,019.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      12-Sep-2016  Exceeds free tran threshold on                                 10.00                            8,009.75
+      12-Sep-2016  IMPS/RRN: 625611976696/MOBFA04                                                  50.00           8,059.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      12-Sep-2016  CWDR//157444/TAAE0416                                       8,020.00                               39.75
+      12-Sep-2016  Exceeds free tran threshold on                                 10.00                               29.75
+      15-Sep-2016  IMPS/RRN: 625914712703/MOBFA04                                               1,900.00           1,929.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      15-Sep-2016  IMPS/RRN: 625914713075/MOBFA04                                               1,900.00           3,829.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Sep-2016  IMPS/RRN: 626010752437/MOBFA04                                               1,000.00           4,829.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Sep-2016  IMPS/RRN: 626012131104/1609169                                               1,000.00           5,829.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Sep-2016  CWDR//584478/03157001                                       5,520.00                              309.75
+      16-Sep-2016  IMPS/RRN: 626018789131/MOBFA04                                                  40.00             349.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      19-Sep-2016  IMPS/RRN: 626209528579/mama                                                     80.00             429.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      19-Sep-2016  IMPS/RRN: 626211868869/MOBFA04                                                  36.00             465.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      19-Sep-2016  IMPS/RRN: 626213876033/MOBFA04                                                  50.00             515.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      19-Sep-2016  CWDR//294244/FCK8014                                          500.00                               15.75
+      20-Sep-2016  IMPS/RRN: 626413999839/MOBFA04                                               1,930.00           1,945.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      21-Sep-2016  IMPS/RRN: 626510550038/MOBFA04                                                 500.00           2,445.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      21-Sep-2016  IMPS/RRN: 626510109718/2109169                                                 150.00           2,595.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      21-Sep-2016  IMPS/RRN: 626512563900/MOBFA04                                                 700.00           3,295.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      21-Sep-2016  CWDR//86765/03157002                                        3,020.00                              275.75
+      22-Sep-2016  IMPS/RRN: 626615633702/MOBFA04                                                 800.00           1,075.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       4,61,994.25         4,63,024.00            1,075.75Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:14
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 4,61,994.25         4,63,024.          1,075.75Cr
+
+
+
+      22-Sep-2016  CWDR//502979/12534001                                         520.00                              555.75
+      22-Sep-2016  Exceeds free tran threshold on                                 10.00                              545.75
+      22-Sep-2016  CWRR//303976/12534001                                                        1,020.00           1,565.75
+      22-Sep-2016  IMPS/RRN: 626616638777/MOBFA04                                                  40.00           1,605.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      22-Sep-2016  CWDR//19667/12534001                                          520.00                            1,085.75
+      22-Sep-2016  CWRR//303976/12534001:22-09-201                             1,020.00                               65.75
+      23-Sep-2016  IMPS/RRN: 626714690276/MOBFA04                                               1,900.00           1,965.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      23-Sep-2016  IMPS/RRN: 626714690642/MOBFA04                                               1,900.00           3,865.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      23-Sep-2016  IMPS/RRN: 626714690765/MOBFA04                                                 900.00           4,765.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      23-Sep-2016  IMPS/RRN: 626714262402/Test                                                    450.00           5,215.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      23-Sep-2016  Exceeds free tran threshold on                                 10.00                            5,205.75
+      23-Sep-2016  CWDR//970002/03033007                                       5,020.00                              185.75
+      24-Sep-2016  IMPS/RRN: 626808722874/MOBFA04                                               1,900.00           2,085.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      24-Sep-2016  IMPS/RRN: 626808723081/MOBFA04                                               1,900.00           3,985.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      24-Sep-2016  IMPS/RRN: 626808723740/MOBFA04                                               1,900.00           5,885.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      24-Sep-2016  IMPS/RRN: 626809724491/MOBFA04                                               1,900.00           7,785.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      24-Sep-2016  CWDR//873695/09770001                                       7,520.00                              265.75
+      26-Sep-2016  IMPS/RRN: 626914268059/Test                                                  4,400.00           4,665.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      26-Sep-2016  IMPS/RRN: 626914803662/MOBFA04                                               1,000.00           5,665.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      26-Sep-2016  IMPS/RRN: 626914803828/MOBFA04                                               1,000.00           6,665.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      26-Sep-2016  Exceeds free tran threshold on                                 10.00                            6,655.75
+      26-Sep-2016  CWDR//286969/03033007                                       6,520.00                              135.75
+      27-Sep-2016  IMPS/RRN: 627110897634/MOBFA04                                               1,900.00           2,035.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      27-Sep-2016  IMPS/RRN: 627110899386/MOBFA04                                               1,400.00           3,435.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      28-Sep-2016  IMPS/RRN: 627211969549/MOBFA04                                               1,400.00           4,835.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      29-Sep-2016  IMPS/RRN: 627309476556/Rahul                                                 1,400.00           6,235.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      29-Sep-2016  CWDR//580478/03157001                                       6,020.00                              215.75
+      01-Oct-2016  IMPS/RRN: 627515285789/Test                                                  4,900.00           5,115.75
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       4,89,164.25         4,94,234.00              215.75Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:15
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 4,89,164.25         4,94,234.            215.75Cr
+
+
+
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Oct-2016  CWDR//151937/AECN6340                                       5,000.00                              115.75
+      01-Oct-2016  CWRR//151937/AECN6340                                                        5,000.00           5,115.75
+      01-Oct-2016  CWDR//419444/AECN6340                                       5,000.00                              115.75
+      01-Oct-2016  IMPS/RRN: 627516862621/gdxxgtf                                               3,800.00           3,915.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Oct-2016  CWDR//529161/AECN6340                                       3,800.00                              115.75
+      03-Oct-2016  IMPS/RRN: 627712851765/MOBFA05                                               1,900.00           2,015.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Oct-2016  CWDR//511353/03033007                                       2,000.00                               15.75
+      05-Oct-2016  IMPS/RRN: 627910617599/MOBFA05                                               1,900.00           1,915.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-Oct-2016  IMPS/RRN: 627911622049/MOBFA05                                               1,900.00           3,815.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-Oct-2016  CWDR//37299/03157001                                        3,500.00                              315.75
+      07-Oct-2016  MEDR/SBI Buddy_BD/937106/                                      11.00                              304.75
+      12-Oct-2016  IMPS/RRN: 628612726346/1210167                                                 300.00             604.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      12-Oct-2016  IMPS/RRN: 628612729004/1210167                                               2,700.00           3,304.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      15-Oct-2016  IMPS/RRN: 628913933489/MOBFA05                                               1,900.00           5,204.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      15-Oct-2016  IMPS/RRN: 628913934787/MOBFA05                                               1,900.00           7,104.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      15-Oct-2016  IMPS/RRN: 628914485460/mama                                                    500.00           7,604.75
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      15-Oct-2016  CWDR//207459/09770001                                       4,520.00                            3,084.75
+      15-Oct-2016  SMSChargesQtrJUL-SEP16+Servicet                                17.25                            3,067.50
+      17-Oct-2016  CWDR//119445/00064036                                       3,020.00                               47.50
+      18-Oct-2016  IMPS/RRN: 629209612169/MOBFA05                                               1,900.00           1,947.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      18-Oct-2016  IMPS/RRN: 629210613798/MOBFA05                                               1,900.00           3,847.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      18-Oct-2016  IMPS/RRN: 629210615121/MOBFA05                                                 950.00           4,797.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      18-Oct-2016  CWDR//494618/03033007                                       4,520.00                              277.50
+      19-Oct-2016  IMPS/RRN: 629308683694/MOBFA05                                                 860.00           1,137.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      19-Oct-2016  IMPS/RRN: 629313713171/MOBFA05                                                  19.00           1,156.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      19-Oct-2016  IMPS/RRN: 629313262754/mama                                                     40.00           1,196.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      20-Oct-2016  NEFT-KUMAR MANISH                                                            2,500.00           3,696.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       5,20,552.50         5,24,203.00            3,696.50Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:16
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 5,20,552.50         5,24,203.          3,696.50Cr
+
+
+
+      20-Oct-2016  CWDR//172722/00213012                                       3,520.00                              176.50
+      24-Oct-2016  IMPS/RRN: 629613945462/MOBFA05                                                 450.00             626.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      24-Oct-2016  IMPS/RRN: 629809628982/2410161                                               4,900.00           5,526.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      24-Oct-2016  CWDR//154810/03157002                                       5,520.00                                6.50
+      26-Oct-2016  IMPS/RRN: 630010713101/MOBFA05                                               1,900.00           1,906.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      26-Oct-2016  IMPS/RRN: 630010714280/MOBFA05                                                 960.00           2,866.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      26-Oct-2016  CWDR//577993/03157001                                       2,020.00                              846.50
+      26-Oct-2016  CWDR//122238/03033007                                         520.00                              326.50
+      31-Oct-2016  IMPS/RRN: 630411545039/MOBFA05                                               1,900.00           2,226.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Oct-2016  IMPS/RRN: 630411386549/mama                                                  3,800.00           6,026.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Oct-2016  IMPS/RRN: 630415556791/MOBFA05                                               1,900.00           7,926.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Oct-2016  IMPS/RRN: 630508574395/MOBFA05                                                 995.00           8,921.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Oct-2016  IMPS/RRN: 630508574549/MOBFA05                                                  50.00           8,971.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Oct-2016  IMPS/RRN: 630508068436/mama                                                     75.00           9,046.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Oct-2016  CWDR//543521/00073011                                       9,020.00                               26.50
+      01-Nov-2016  IMPS/RRN: 630607640424/MOBFA05                                               1,900.00           1,926.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Nov-2016  IMPS/RRN: 630609393776/Test                                                  4,880.00           6,806.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Nov-2016  IMPS/RRN: 630610109746/rajeev                                                3,800.00          10,606.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Nov-2016  IMPS/RRN: 630610656904/MOBFA05                                               1,900.00          12,506.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Nov-2016  IMPS/RRN: 630610658274/MOBFA05                                                 990.00          13,496.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Nov-2016  CWDR//76701/03033007                                       10,000.00                            3,496.50
+      01-Nov-2016  CWDR//310498/03033007                                       3,000.00                              496.50
+      01-Nov-2016  IMPS/RRN: 630612249771/rajeev                                                   50.00             546.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Nov-2016  CWDR//608109/03033007                                         500.00                               46.50
+      01-Nov-2016  IMPS/RRN: 630618615589/mama                                                  3,800.00           3,846.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Nov-2016  IMPS/RRN: 630618621266/mama                                                     85.00           3,931.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       5,54,652.50         5,58,538.00            3,931.50Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:17
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 5,54,652.50         5,58,538.          3,931.50Cr
+
+
+
+      02-Nov-2016  IMPS/RRN: 630707724835/MOBFA05                                               1,900.00           5,831.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Nov-2016  IMPS/RRN: 630710744721/MOBFA05                                                 900.00           6,731.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Nov-2016  IMPS/RRN: 630712538457/NA                                                       10.00           6,741.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Nov-2016  CWDR//881091/03157002                                       6,500.00                              241.50
+      03-Nov-2016  Int:01-08-2016/31-10-2016                                                       11.00             252.50
+      03-Nov-2016  IMPS/RRN: 630810401580/Test                                                  4,900.00           5,152.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-Nov-2016  IMPS/RRN: 630814864076/MOBFA05                                               1,900.00           7,052.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-Nov-2016  IMPS/RRN: 630814866616/MOBFA05                                               1,900.00           8,952.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-Nov-2016  IMPS/RRN: 630814867363/MOBFA05                                               1,600.00          10,552.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-Nov-2016  Exceeds free tran threshold on                                 10.00                           10,542.50
+      03-Nov-2016  CWDR//126463/03157002                                      10,020.00                              522.50
+      03-Nov-2016  CWDR//207507/03157002                                         520.00                                2.50
+      04-Nov-2016  IMPS/RRN: 630914976546/MOBFA05                                               1,900.00           1,902.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Nov-2016  IMPS/RRN: 630915175267/rajeev                                                3,800.00           5,702.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Nov-2016  IMPS/RRN: 630915982243/MOBFA05                                               1,800.00           7,502.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Nov-2016  IMPS/RRN: 630915185298/rajeev                                                   30.00           7,532.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Nov-2016  CWDR//669333/03033007                                       7,520.00                               12.50
+      05-Nov-2016  IMPS/RRN: 631010537761/MOBFA05                                               1,900.00           1,912.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-Nov-2016  IMPS/RRN: 631010538184/MOBFA05                                               1,900.00           3,812.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-Nov-2016  IMPS/RRN: 631013560230/MOBFA05                                               1,900.00           5,712.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-Nov-2016  IMPS/RRN: 631013560636/MOBFA05                                                 900.00           6,612.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-Nov-2016  CWDR//711060/03033007                                       6,520.00                               92.50
+      07-Nov-2016  IMPS/RRN: 631115413873/Test                                                  4,900.00           4,992.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Nov-2016  IMPS/RRN: 631115651664/MOBFA06                                                  90.00           5,082.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Nov-2016  CWDR//221868/03033007                                       5,020.00                               62.50
+      07-Nov-2016  IMPS/RRN: 631208416358/Test                                                  4,900.00           4,962.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       5,90,762.50         5,95,679.00            4,962.50Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:18
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 5,90,762.50         5,95,679.          4,962.50Cr
+
+
+
+      07-Nov-2016  IMPS/RRN: 631208576419/0711166                                               2,450.00           7,412.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Nov-2016  Exceeds free tran threshold on                                 10.00                            7,402.50
+      07-Nov-2016  CWDR//103269/03033007                                       7,020.00                              382.50
+      08-Nov-2016  IMPS/RRN: 631311785955/MOBFA06                                               1,900.00           2,282.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Nov-2016  IMPS/RRN: 631311786201/MOBFA06                                               1,050.00           3,332.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Nov-2016  IMPS/RRN: 631311787379/MOBFA06                                               1,900.00           5,232.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Nov-2016  IMPS/RRN: 631311788631/MOBFA06                                               1,000.00           6,232.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Nov-2016  CWDR//659226/03033007                                       6,020.00                              212.50
+      11-Nov-2016  IMPS/RRN: 631607744834/1111162                                               4,850.00           5,062.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      11-Nov-2016  IMPS/RRN: 631611819284/1111162                                               4,850.00           9,912.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      11-Nov-2016  IMPS/RRN: 631612132262/NA                                                    3,800.00          13,712.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      11-Nov-2016  IMPS/RRN: 631612997265/MOBFA06                                               1,900.00          15,612.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      11-Nov-2016  IMPS/RRN: 631614517123/MOBFA06                                               1,900.00          17,512.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      11-Nov-2016  IMPS/RRN: 631614942392/1111162                                               4,800.00          22,312.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      11-Nov-2016  IMPS/RRN: 631615523682/MOBFA06                                                 950.00          23,262.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      12-Nov-2016  CWDR//450032/00073001                                       2,000.00                           21,262.50
+      13-Nov-2016  IMPS/RRN: 631811444447/Test                                                  4,400.00          25,662.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      13-Nov-2016  CWDR//373136/ALW17481                                       2,000.00                           23,662.50
+      14-Nov-2016  IMPS/RRN: 631916843620/MOBFA06                                                  10.00          23,672.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      14-Nov-2016  CWDR//534678/00073011                                       2,000.00                           21,672.50
+      15-Nov-2016  CWDR//264733/00073001                                       2,000.00                           19,672.50
+      15-Nov-2016  IMPS/RRN: 632012928734/MOBFA06                                                 900.00          20,572.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Nov-2016  CWDR//609302/SACW9672                                       2,500.00                           18,072.50
+      17-Nov-2016  CWDR//157236/SACW9672                                       2,500.00                           15,572.50
+      18-Nov-2016  IMPS/RRN: 632307449327/NA                                                    2,900.00          18,472.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      18-Nov-2016  IMPS/RRN: 632307741508/MOBFA06                                               1,900.00          20,372.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      18-Nov-2016  CWDR//461607/SACW9672                                       2,500.00                           17,872.50
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       6,19,312.50         6,37,139.00           17,872.50Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:19
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 6,19,312.50         6,37,139.         17,872.50Cr
+
+
+
+      19-Nov-2016  CWDR//142316/SACW9672                                       2,500.00                           15,372.50
+      21-Nov-2016  CWDR//154080/00073003                                       2,000.00                           13,372.50
+      22-Nov-2016  CWDR//643133/00073003                                       2,500.00                           10,872.50
+      23-Nov-2016  CWDR//422636/SACW9672                                       2,500.00                            8,372.50
+      24-Nov-2016  CWDR//544996/00073003                                       1,900.00                            6,472.50
+      24-Nov-2016  CWDR//768577/SACW9672                                         600.00                            5,872.50
+      24-Nov-2016  IMPS/RRN: 632912978069/MOBFA06                                               1,900.00           7,772.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      24-Nov-2016  IMPS/RRN: 632920174206/2411163                                               4,950.00          12,722.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      24-Nov-2016  IMPS/RRN: 632920547197/MOBFA06                                               1,900.00          14,622.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      25-Nov-2016  CWDR//266850/SACW9672                                       2,500.00                           12,122.50
+      28-Nov-2016  CWDR//809501/N3449200                                       2,500.00                            9,622.50
+      28-Nov-2016  CWDR//348129/00073003                                       2,000.00                            7,622.50
+      28-Nov-2016  CWDR//873216/00073009                                       2,000.00                            5,622.50
+      28-Nov-2016  CWDR//817192/SACW9672                                         500.00                            5,122.50
+      29-Nov-2016  IMPS/RRN: 633410538867/MOBFA06                                                 600.00           5,722.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      29-Nov-2016  CWDR//772149/00073003                                       2,000.00                            3,722.50
+      29-Nov-2016  CWDR//805217/CPDC7460                                         500.00                            3,222.50
+      30-Nov-2016  IMPS/RRN: 633516839749/3011167                                               2,300.00           5,522.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      30-Nov-2016  IMPS/RRN: 633516756686/MOBFA06                                               1,900.00           7,422.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      30-Nov-2016  CWDR//99939/SACW9672                                        2,500.00                            4,922.50
+      01-Dec-2016  IMPS/RRN: 633607815711/MOBFA06                                               1,900.00           6,822.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Dec-2016  IMPS/RRN: 633607538407/Test                                                  4,900.00          11,722.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Dec-2016  IMPS/RRN: 633607538434/Test                                                  4,800.00          16,522.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Dec-2016  CWDR//359649/SACW9672                                       2,500.00                           14,022.50
+      02-Dec-2016  CWDR//721995/SACW9672                                       2,500.00                           11,522.50
+      03-Dec-2016  IMPS/RRN: 633810715373/MOBFA07                                               2,000.00          13,522.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-Dec-2016  IMPS/RRN: 633812754975/MOBFA07                                               2,000.00          15,522.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      03-Dec-2016  CWDR//359405/N3449200                                       1,900.00                           13,622.50
+      03-Dec-2016  CWDR//554110/N3449200                                         600.00                           13,022.50
+      05-Dec-2016  CWDR//951826/S1CW4032                                       2,500.00                           10,522.50
+      05-Dec-2016  CWDR//780675/S1CW4032                                       2,500.00                            8,022.50
+      06-Dec-2016  IMPS/RRN: 634112571363/Test                                                  4,900.00          12,922.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       6,58,312.50         6,71,189.00           12,922.50Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:20
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 6,58,312.50         6,71,189.         12,922.50Cr
+
+
+
+      06-Dec-2016  IMPS/RRN: 634112571392/Test                                                  4,890.00          17,812.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      06-Dec-2016  IMPS/RRN: 634112916236/0612167                                               1,900.00          19,712.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      07-Dec-2016  CWDR//11003/N3449200                                        1,900.00                           17,812.50
+      07-Dec-2016  CWDR//204341/N3449200                                         600.00                           17,212.50
+      08-Dec-2016  IMPS/RRN: 634310656879/MOBFA07                                               2,000.00          19,212.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      08-Dec-2016  CWDR//147448/00073003                                       2,000.00                           17,212.50
+      08-Dec-2016  CWDR//54496/S1CW4032                                          500.00                           16,712.50
+      09-Dec-2016  CWDR//77164/D21D0078                                        1,900.00                           14,812.50
+      09-Dec-2016  CWDR//353372/D21D0078                                         600.00                           14,212.50
+      12-Dec-2016  CWDR//972595/28647328                                       2,000.00                           12,212.50
+      12-Dec-2016  CWDR//345016/00073009                                         500.00                           11,712.50
+      12-Dec-2016  IMPS/RRN: 634514599508/Test                                                  4,900.00          16,612.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      12-Dec-2016  IMPS/RRN: 634514599519/Test                                                  4,900.00          21,512.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      12-Dec-2016  CWDR//130834/00073001                                       2,000.00                           19,512.50
+      12-Dec-2016  CWDR//694936/00073012                                       2,000.00                           17,512.50
+      13-Dec-2016  CWDR//979933/N3449200                                       1,900.00                           15,612.50
+      13-Dec-2016  CWDR//148365/N3449200                                         600.00                           15,012.50
+      14-Dec-2016  CWDR//293123/N3449200                                       1,900.00                           13,112.50
+      14-Dec-2016  CWDR//492179/N3449200                                         600.00                           12,512.50
+      15-Dec-2016  CWDR//867454/D21D0078                                       2,000.00                           10,512.50
+      16-Dec-2016  CWDR//709981/D21D0078                                       2,000.00                            8,512.50
+      16-Dec-2016  CWDR//487685/S1CW4032                                         500.00                            8,012.50
+      17-Dec-2016  CWDR//963687/00064035                                       2,000.00                            6,012.50
+      19-Dec-2016  CWDR//554845/00064035                                       2,000.00                            4,012.50
+      19-Dec-2016  IMPS/RRN: 635413146146/Transfe                                                 500.00           4,512.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      19-Dec-2016  IMPS/RRN: 635413151722/Transfe                                                 400.00           4,912.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      19-Dec-2016  IMPS/RRN: 635416356590/Transfe                                                 500.00           5,412.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      19-Dec-2016  IMPS/RRN: 635416358498/Transfe                                                 490.00           5,902.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      20-Dec-2016  IMPS/RRN: 635508889422/Transfe                                                 999.00           6,901.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      20-Dec-2016  IMPS/RRN: 635508897076/2012164                                                  70.00           6,971.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      20-Dec-2016  IMPS/RRN: 635508900197/2012164                                                  10.00           6,981.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      20-Dec-2016  IMPS/RRN: 635509577458/WALLETT                                                  20.00           7,001.50
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       6,85,812.50         6,92,768.00            6,981.50Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:21
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 6,85,812.50         6,92,768.          6,981.50Cr
+
+
+
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      20-Dec-2016  CWDR//258928/00064035                                       2,000.00                            5,001.50
+      21-Dec-2016  IMPS/RRN: 635608930905/Transfe                                                 999.00           6,000.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      21-Dec-2016  IMPS/RRN: 635610976083/2112164                                               4,900.00          10,900.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      21-Dec-2016  CWDR//779147/00064035                                       2,000.00                            8,900.50
+      22-Dec-2016  IMPS/RRN: 635709995535/Transfe                                                 999.00           9,899.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      22-Dec-2016  IMPS/RRN: 635709997577/Transfe                                                 999.00          10,898.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      22-Dec-2016  CWDR//595016/00064035                                       2,000.00                            8,898.50
+      23-Dec-2016  IMPS/RRN: 635809122893/Transfe                                                 999.00           9,897.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      23-Dec-2016  IMPS/RRN: 635809125776/Transfe                                                 999.00          10,896.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      23-Dec-2016  CWDR//901401/00064035                                       2,000.00                            8,896.50
+      26-Dec-2016  IMPS/RRN: 635910439327/Transfe                                                 150.00           9,046.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      26-Dec-2016  CWDR//731350/03033007                                       2,500.00                            6,546.50
+      26-Dec-2016  CWDR//291765/00064035                                       2,000.00                            4,546.50
+      26-Dec-2016  CWDR//948949/03033007                                       1,500.00                            3,046.50
+      26-Dec-2016  CWDR//71438/03033007                                        1,000.00                            2,046.50
+      26-Dec-2016  IMPS/RRN: 636116393541/Transfe                                                 260.00           2,306.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      26-Dec-2016  IMPS/RRN: 636116404197/Transfe                                                 200.00           2,506.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      27-Dec-2016  CWDR//632046/03157001                                       2,000.00                              506.50
+      31-Dec-2016  IMPS/RRN: 636610155988/Transfe                                                 999.00           1,505.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Dec-2016  IMPS/RRN: 636610218929/Transfe                                                 999.00           2,504.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Dec-2016  IMPS/RRN: 636610228546/Transfe                                                 870.00           3,374.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Dec-2016  IMPS/RRN: 636610236181/Transfe                                                 100.00           3,474.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Dec-2016  IMPS/RRN: 636610258605/Transfe                                                 999.00           4,473.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Dec-2016  IMPS/RRN: 636610265509/Transfe                                                 999.00           5,472.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Dec-2016  CWDR//322067/03033007                                       2,000.00                            3,472.50
+      31-Dec-2016  IMPS/RRN: 700109076807/Transfe                                                 999.00           4,471.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Dec-2016  IMPS/RRN: 700109080000/Transfe                                               1,999.00           6,470.50
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       7,04,812.50         7,11,237.00            4,471.50Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:22
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 7,04,812.50         7,11,237.          4,471.50Cr
+
+
+
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Dec-2016  IMPS/RRN: 700109098123/WALLETT                                               3,800.00          10,270.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Dec-2016  IMPS/RRN: 700109116225/Transfe                                               1,999.00          12,269.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Dec-2016  IMPS/RRN: 700109119508/Transfe                                                 800.00          13,069.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      31-Dec-2016  CWDR//74062/00064035                                        2,000.00                           11,069.50
+      02-Jan-2017  IMPS/RRN: 700208184535/Transfe                                               1,999.00          13,068.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Jan-2017  IMPS/RRN: 700208187805/Transfe                                               1,999.00          15,067.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Jan-2017  IMPS/RRN: 700208190580/Transfe                                                 600.00          15,667.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      02-Jan-2017  CWDR//335750/03157001                                       2,000.00                           13,667.50
+      03-Jan-2017  CWDR//827333/03033007                                       4,000.00                            9,667.50
+      04-Jan-2017  CWDR//540652/03157001                                       4,000.00                            5,667.50
+      04-Jan-2017  IMPS/RRN: 700415974807/Transfe                                                 150.00           5,817.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      04-Jan-2017  IMPS/RRN: 700415244943/WALLETT                                                  80.00           5,897.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      05-Jan-2017  CWDR//772012/03033007                                       4,000.00                            1,897.50
+      05-Jan-2017  IMPS/RRN: 700515418697/Transfe                                                 400.00           2,297.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      06-Jan-2017  CWDR//493359/03157002                                       2,000.00                              297.50
+      09-Jan-2017  IMPS/RRN: 700810611565/Transfe                                                 205.00             502.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      12-Jan-2017  IMPS/RRN: 701214939157/Transfe                                                 900.00           1,402.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      13-Jan-2017  IMPS/RRN: 701311790780/Transfe                                                 100.00           1,502.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      13-Jan-2017  IMPS/RRN: 701311795395/Transfe                                                 200.00           1,702.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Jan-2017  IMPS/RRN: 701515844418/Transfe                                                 999.00           2,701.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Jan-2017  IMPS/RRN: 701515845636/Transfe                                                 999.00           3,700.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Jan-2017  IMPS/RRN: 701515847721/Transfe                                               2,000.00           5,700.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Jan-2017  IMPS/RRN: 701515850032/Transfe                                                 999.00           6,699.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Jan-2017  IMPS/RRN: 701608231675/Transfe                                                 900.00           7,599.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Jan-2017  IMPS/RRN: 701610301544/Transfe                                               1,800.00           9,399.50
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Total C/F:                                                       7,22,812.50         7,32,166.00            7,599.50Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+       A/C No  591110110003750       BANK OF INDIA  PALAJORI                 BRANCH                      PAGE:23
+      -----------------------------------------------------------------------------------------------------------------------------------
+                                       Statement of Account from  01-02-2016 to 01-02-2017
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Date                   Description                  Instr. No.       Debits           Credits           Balance
+      -----------------------------------------------------------------------------------------------------------------------------------
+                        B/F                                                 7,22,812.50         7,32,166.          7,599.50Cr
+
+
+
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Jan-2017  IMPS/RRN: 701610309171/Transfe                                               1,999.00          11,398.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      16-Jan-2017  CWDR//174552/03157001                                       4,000.00                            7,398.50
+      17-Jan-2017  IMPS/RRN: 701709381693/Transfe                                                 999.00           8,397.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      17-Jan-2017  CWDR//679207/00213012                                       4,500.00                            3,897.50
+      17-Jan-2017  IMPS/RRN: 701715915719/Test                                                  4,800.00           8,697.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      17-Jan-2017  IMPS/RRN: 701715915748/Test                                                  4,800.00          13,497.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      17-Jan-2017  IMPS/RRN: 701715915800/Test                                                  4,000.00          17,497.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      17-Jan-2017  IMPS/RRN: 701715893062/Transfe                                                 150.00          17,647.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      17-Jan-2017  IMPS/RRN: 701715897499/Transfe                                                 500.00          18,147.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      17-Jan-2017  IMPS/RRN: 701715902772/Transfe                                                 300.00          18,447.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      18-Jan-2017  CWDR//887865/00213012                                       1,520.00                           16,927.50
+      18-Jan-2017  CWDR//987583/00213012                                       1,520.00                           15,407.50
+      18-Jan-2017  CWDR//89384/00213012                                        1,520.00                           13,887.50
+      19-Jan-2017  CWDR//335923/03033007                                      10,020.00                            3,867.50
+      20-Jan-2017  IMPS/RRN: 702013198583/Transfe                                                 500.00           4,367.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      21-Jan-2017  CWDR//699298/03033007                                       4,020.00                              347.50
+      01-Feb-2017  IMPS/RRN: 703214283693/Test                                                  4,800.00           5,147.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Feb-2017  IMPS/RRN: 703215283795/Test                                                     75.00           5,222.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Feb-2017  IMPS/RRN: 703215283940/Test                                                  4,880.00          10,102.50
+                    SOL-ID 02000  MUMBAI (MAHARASHTRA )
+      01-Feb-2017  CWDR//866696/00064035                                      10,000.00                              102.50
+
+      -----------------------------------------------------------------------------------------------------------------------------------
+        Grand Total                                                         7,59,912.50      7,59,969.00              102.50Cr
+      -----------------------------------------------------------------------------------------------------------------------------------
+
+      DATE :15-02-2017
+
+      Any discrepancy in this Statement of account should be notified to the Bank within a period of 30 days of receipt of this statement
+      If no such complaint is made within the period stated  above it will be treated that the entries/contents of this statement are che
+
+                               MAKE USE OF RTGS/NEFT FOR REMITANCE
+
+
+
+
+
+
+
+
+
+
+
+
+       Bank of India Helpline No: 022-40919191, Email id of the Complaint Cell: Headoffice.GOD@bankofindia.co.in
+
+                     **** Update your MOBILE NUMBER & EMAIL ID for getting SMS & EMAIL from BOI ****
+
+                     ********* Toll free no. of our call center : 1800 220 229,1800 103 1906. *********
+
+                     ******************** RELATIONSHIP BEYOND BANKING ********************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

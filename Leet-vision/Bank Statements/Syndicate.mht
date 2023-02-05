@@ -1,0 +1,632 @@
+  
+ =
+-------------------------------------------------------------------------=
+------------------------------------------------------
+
+ DATE     VALUE DATE TRANSACTION DETAILS   CHEQUE NO             DEBITS  =
+             CREDITS               BALANCE
+ =
+-------------------------------------------------------------------------=
+-------------------------------------------------------
+ 01-Jan-16 01-Jan-16 B/F ...                                             =
+                                         0.00
+ 02-Mar-16 02-Mar-16 06759102|1687|3024322 213001687                     =
+              100.00                   100.00
+                     0000017
+ 27-Jun-16 27-Jun-16 DSCNEFT/N061623844175 0                             =
+            1,002.00                 1,102.00
+ 30-Jun-16 30-Jun-16 DSCNEFT/N061628151935 0                             =
+            1,134.00                 2,236.00
+ 30-Jun-16 30-Jun-16 CREDIT INTEREST                                     =
+                1.54                 2,237.54
+                     CAPITALISED
+ 15-Jul-16 15-Jul-16 MOBILE FUND XFER CR   720878646                     =
+                1.00                 2,238.54
+                     REM-50813020000029
+ 15-Jul-16 15-Jul-16 MOBILE FUND XFER CR   720077062                     =
+            5,000.00                 7,238.54
+                     REM-50813020000029
+ 15-Jul-16 15-Jul-16 MOBILE FUND XFER CR   720447930                     =
+            1,999.00                 9,237.54
+                     REM-50813020000029
+ 16-Jul-16 16-Jul-16 WS 922533                                  6,900.00 =
+                                     2,337.54
+ 23-Jul-16 23-Jul-16 MOBILE FUND XFER CR   509357854                     =
+            3,000.00                 5,337.54
+                     REM-50813020000029
+ 25-Jul-16 25-Jul-16 WS922768                                   3,000.00 =
+                                     2,337.54
+ 29-Aug-16 29-Aug-16 MOBILE FUND XFER CR   211730095                     =
+            3,000.00                 5,337.54
+                     REM-50813020000029
+ 01-Sep-16 01-Sep-16 WS923740                                   2,800.00 =
+                                     2,537.54
+ 23-Sep-16 23-Sep-16 ATM CASH W/D FROM     124041342              500.00 =
+                                     2,037.54
+                     CASA REMOTE ON US
+ 23-Sep-16 23-Sep-16 ATM CASH W/D FROM     124051215            1,500.00 =
+                                       537.54
+                     CASA REMOTE ON US
+ 24-Sep-16 24-Sep-16 ATM CASH W/D FROM     124433616              500.00 =
+                                        37.54
+                     CASA REMOTE ON US
+ 29-Sep-16 29-Sep-16 MOBILE FUND XFER CR   310389968                     =
+            4,800.00                 4,837.54
+                     REM-50813020000029
+ 29-Sep-16 29-Sep-16 MOBILE FUND XFER CR   310390422                     =
+            2,550.00                 7,387.54
+                     REM-50813020000029
+ 29-Sep-16 29-Sep-16 MOBILE FUND XFER CR   310392555                     =
+            4,800.00                12,187.54
+                     REM-50813020000029
+ 29-Sep-16 29-Sep-16 MOBILE FUND XFER CR   310393294                     =
+            4,800.00                16,987.54
+                     REM-50813020000029
+ 29-Sep-16 29-Sep-16 ATM CASH W/D FROM     311013555           10,000.00 =
+                                     6,987.54
+                     CASA REMOTE ON US
+ 29-Sep-16 29-Sep-16 SC ON NFS TXN REMOTE  311013555               20.00 =
+                                     6,967.54
+                     ON US
+ 29-Sep-16 29-Sep-16 ATM CASH W/D FROM     311013609            6,500.00 =
+                                       467.54
+                     CASA REMOTE ON US
+ 29-Sep-16 29-Sep-16 SC ON NFS TXN REMOTE  311013609               20.00 =
+                                       447.54
+                     ON US
+ 29-Sep-16 29-Sep-16 MOBILE FUND XFER CR   312544359                     =
+            1,400.00                 1,847.54
+                     REM-50813020000029
+ 29-Sep-16 29-Sep-16 MOBILE FUND XFER CR   312279263                     =
+            4,900.00                 6,747.54
+                     REM-50813020000029
+ 29-Sep-16 29-Sep-16 MOBILE FUND XFER CR   312279322                     =
+            4,900.00                11,647.54
+                     REM-50813020000029
+ 30-Sep-16 30-Sep-16 ATM CASH W/D FROM     410025004           10,000.00 =
+                                     1,647.54
+                     CASA REMOTE ON US
+ 30-Sep-16 30-Sep-16 SC ON NFS TXN REMOTE  410025004               20.00 =
+                                     1,627.54
+                     ON US
+ 30-Sep-16 30-Sep-16 ATM CASH W/D FROM     410025052            1,500.00 =
+                                       127.54
+                     CASA REMOTE ON US
+ 30-Sep-16 30-Sep-16 SC ON NFS TXN REMOTE  410025052               20.00 =
+                                       107.54
+                     ON US
+ 30-Sep-16 30-Sep-16 CREDIT INTEREST                                     =
+               25.60                   133.14
+                     CAPITALISED
+ 01-Oct-16 01-Oct-16 MOBILE FUND XFER CR   511600578                     =
+            5,000.00                 5,133.14
+                     REM-50813020000029
+ 01-Oct-16 01-Oct-16 MOBILE FUND XFER CR   511602019                     =
+              800.00                 5,933.14
+                     REM-50813020000029
+ 01-Oct-16 01-Oct-16 ATM CASH W/D FROM                          5,000.00 =
+                                       933.14
+                     CASA REMOTE ON US
+ 01-Oct-16 01-Oct-16 ATM CASH W/D FROM                            900.00 =
+                                        33.14
+                     CASA REMOTE ON US
+ 01-Oct-16 01-Oct-16 MOBILE FUND XFER CR   515771705                     =
+            4,800.00                 4,833.14
+                     REM-50813020000029
+ 01-Oct-16 01-Oct-16 MOBILE FUND XFER CR   515772108                     =
+            4,800.00                 9,633.14
+                     REM-50813020000029
+ 01-Oct-16 01-Oct-16 MOBILE FUND XFER CR   515783265                     =
+            4,800.00                14,433.14
+                     REM-50813020000029
+ 01-Oct-16 01-Oct-16 MOBILE FUND XFER CR   515784704                     =
+            2,800.00                17,233.14
+                     REM-50813020000029
+ 01-Oct-16 01-Oct-16 MOBILE FUND XFER CR   515786027                     =
+            1,900.00                19,133.14
+                     REM-50813020000029
+ 01-Oct-16 01-Oct-16 ATM CASH W/D FROM                         10,000.00 =
+                                     9,133.14
+                     CASA REMOTE ON US
+ 01-Oct-16 01-Oct-16 ATM CASH W/D FROM                          9,000.00 =
+                                       133.14
+                     CASA REMOTE ON US
+ 03-Oct-16 03-Oct-16 MOBILE FUND XFER CR   712767190                     =
+            4,800.00                 4,933.14
+                     REM-50813020000029
+ 03-Oct-16 03-Oct-16 MOBILE FUND XFER CR   712768132                     =
+            4,600.00                 9,533.14
+                     REM-50813020000029
+ 03-Oct-16 03-Oct-16 MOBILE FUND XFER CR   712851934                     =
+            1,500.00                11,033.14
+                     REM-50813020000029
+ 03-Oct-16 03-Oct-16 ATM CASH W/D FROM     713356016           10,000.00 =
+                                     1,033.14
+                     CASA REMOTE ON US
+ 03-Oct-16 03-Oct-16 SC ON NFS TXN REMOTE  713356016               20.00 =
+                                     1,013.14
+                     ON US
+=0C                                        Syndicate Bank
+                                           SABAIZORE                     =
+         Page Number :    2
+
+  
+-------------------------------------------------------------------------=
+------------------------------------------------------
+
+ DATE     VALUE DATE TRANSACTION DETAILS   CHEQUE NO             DEBITS  =
+             CREDITS               BALANCE
+ =
+-------------------------------------------------------------------------=
+-------------------------------------------------------
+ 03-Oct-16 03-Oct-16 ATM CASH W/D FROM     713356017              500.00 =
+                                       513.14
+                     CASA REMOTE ON US
+ 03-Oct-16 03-Oct-16 SC ON NFS TXN REMOTE  713356017               20.00 =
+                                       493.14
+                     ON US
+ 03-Oct-16 03-Oct-16 MOBILE FUND XFER CR   716291529                     =
+            4,800.00                 5,293.14
+                     REM-50813020000029
+ 03-Oct-16 03-Oct-16 ATM CASH W/D FROM     124462800            5,000.00 =
+                                       293.14
+                     CASA REMOTE ON US
+ 03-Oct-16 03-Oct-16 SC ON NFS TXN REMOTE  124462800               20.00 =
+                                       273.14
+                     ON US
+ 03-Oct-16 03-Oct-16 MOBILE FUND XFER CR   716763995                     =
+            2,400.00                 2,673.14
+                     REM-50813020000029
+ 03-Oct-16 03-Oct-16 NFS BAL ENQ CHGS      717294347               10.00 =
+                                     2,663.14
+ 04-Oct-16 04-Oct-16 NEFT 1053895038                                     =
+            2,500.00                 5,163.14
+                     KUKUR KUMAR
+ 04-Oct-16 04-Oct-16 MOBILE FUND XFER CR   811451488                     =
+            4,800.00                 9,963.14
+                     REM-50813020000029
+ 04-Oct-16 04-Oct-16 MOBILE FUND XFER CR   811454396                     =
+            4,800.00                14,763.14
+                     REM-50813020000029
+ 04-Oct-16 04-Oct-16 MOBILE FUND XFER CR   812457774                     =
+            4,800.00                19,563.14
+                     REM-50813020000029
+ 04-Oct-16 04-Oct-16 MOBILE FUND XFER CR   812458882                     =
+            4,800.00                24,363.14
+                     REM-50813020000029
+ 04-Oct-16 04-Oct-16 MOBILE FUND XFER CR   812957630                     =
+            1,900.00                26,263.14
+                     REM-50813020000029
+ 04-Oct-16 04-Oct-16 MOBILE FUND XFER CR   812472919                     =
+            4,900.00                31,163.14
+                     REM-50813020000029
+ 04-Oct-16 04-Oct-16 MOBILE FUND XFER CR   812481199                     =
+            4,900.00                36,063.14
+                     REM-50813020000029
+ 04-Oct-16 04-Oct-16 ATM CASH W/D FROM     812031158           10,000.00 =
+                                    26,063.14
+                     CASA REMOTE ON US
+ 04-Oct-16 04-Oct-16 SC ON NFS TXN REMOTE  812031158               20.00 =
+                                    26,043.14
+                     ON US
+ 04-Oct-16 04-Oct-16 ATM CASH W/D FROM     812031267           10,000.00 =
+                                    16,043.14
+                     CASA REMOTE ON US
+ 04-Oct-16 04-Oct-16 SC ON NFS TXN REMOTE  812031267               20.00 =
+                                    16,023.14
+                     ON US
+ 04-Oct-16 04-Oct-16 ATM CASH W/D FROM     813937494            5,000.00 =
+                                    11,023.14
+                     CASA REMOTE ON US
+ 04-Oct-16 04-Oct-16 SC ON NFS TXN REMOTE  813937494               20.00 =
+                                    11,003.14
+                     ON US
+ 05-Oct-16 05-Oct-16 MOBILE FUND XFER CR   908445659                     =
+            3,800.00                14,803.14
+                     REM-50813020000029
+ 05-Oct-16 05-Oct-16 MOBILE FUND XFER CR   908446190                     =
+            3,800.00                18,603.14
+                     REM-50813020000029
+ 05-Oct-16 05-Oct-16 MOBILE FUND XFER CR   908970236                     =
+            2,000.00                20,603.14
+                     REM-50813020000029
+ 05-Oct-16 05-Oct-16 NEFT 1054804262                                     =
+            2,500.00                23,103.14
+                     KUKUR KUMAR
+ 05-Oct-16 05-Oct-16 MOBILE FUND XFER CR   910611981                     =
+            1,900.00                25,003.14
+                     REM-50813020000029
+ 05-Oct-16 05-Oct-16 MOBILE FUND XFER CR   910612762                     =
+              950.00                25,953.14
+                     REM-50813020000029
+ 05-Oct-16 05-Oct-16 ATM CASH W/D FROM     910029308           10,000.00 =
+                                    15,953.14
+                     CASA REMOTE ON US
+ 05-Oct-16 05-Oct-16 SC ON NFS TXN REMOTE  910029308               20.00 =
+                                    15,933.14
+                     ON US
+ 05-Oct-16 05-Oct-16 ATM CASH W/D FROM     910029387           10,000.00 =
+                                     5,933.14
+                     CASA REMOTE ON US
+ 05-Oct-16 05-Oct-16 SC ON NFS TXN REMOTE  910029387               20.00 =
+                                     5,913.14
+                     ON US
+ 05-Oct-16 05-Oct-16 ATM CASH W/D FROM     910029422            5,000.00 =
+                                       913.14
+                     CASA REMOTE ON US
+ 05-Oct-16 05-Oct-16 SC ON NFS TXN REMOTE  910029422               20.00 =
+                                       893.14
+                     ON US
+ 06-Oct-16 06-Oct-16 MOBILE FUND XFER CR   9521956                       =
+              700.00                 1,593.14
+                     REM-50813020000029
+ 06-Oct-16 06-Oct-16 MOBILE FUND XFER CR   11300684                      =
+            4,900.00                 6,493.14
+                     REM-50813020000029
+ 06-Oct-16 06-Oct-16 MOBILE FUND XFER CR   12817119                      =
+            2,400.00                 8,893.14
+                     REM-50813020000029
+ 06-Oct-16 06-Oct-16 MOBILE FUND XFER CR   12703162                      =
+              500.00                 9,393.14
+                     REM-50813020000029
+ 06-Oct-16 06-Oct-16 WS972804                                   2,200.00 =
+                                     7,193.14
+ 06-Oct-16 06-Oct-16 NFS BAL ENQ CHGS      13023931                10.00 =
+                                     7,183.14
+ 06-Oct-16 06-Oct-16 ATM CASH W/D FROM     13023971             7,000.00 =
+                                       183.14
+                     CASA REMOTE ON US
+ 06-Oct-16 06-Oct-16 SC ON NFS TXN REMOTE  13023971                20.00 =
+                                       163.14
+                     ON US
+ 08-Oct-16 08-Oct-16 NFS BAL ENQ CHGS      214009155               10.00 =
+                                       153.14
+ 09-Oct-16 09-Oct-16 NFS BAL ENQ CHGS      314018012               10.00 =
+                                       143.14
+ 22-Oct-16 22-Oct-16 ATM CASH W/D FROM     611294268              100.00 =
+                                        43.14
+                     CASA REMOTE ON US
+ 22-Oct-16 22-Oct-16 SC ON NFS TXN REMOTE  611294268               20.00 =
+                                        23.14
+                     ON US
+ 22-Oct-16 22-Oct-16 MOBILE FUND XFER CR   614052257                     =
+            4,800.00                 4,823.14
+                     REM-50813020000029
+ 22-Oct-16 22-Oct-16 MOBILE FUND XFER CR   614052863                     =
+            4,800.00                 9,623.14
+                     REM-50813020000029
+ 22-Oct-16 22-Oct-16 MOBILE FUND XFER CR   614949876                     =
+            1,900.00                11,523.14
+                     REM-50813020000029
+ 22-Oct-16 22-Oct-16 MOBILE FUND XFER CR   614950640                     =
+            1,930.00                13,453.14
+                     REM-50813020000029
+ 22-Oct-16 22-Oct-16 MOBILE FUND XFER CR   614951051                     =
+            1,920.00                15,373.14
+                     REM-50813020000029
+ 22-Oct-16 22-Oct-16 MOBILE FUND XFER CR   614951928                     =
+            1,910.00                17,283.14
+                     REM-50813020000029
+ 22-Oct-16 22-Oct-16 ATM CASH W/D FROM     615019354           10,000.00 =
+                                     7,283.14
+                     CASA REMOTE ON US
+ 22-Oct-16 22-Oct-16 SC ON NFS TXN REMOTE  615019354               20.00 =
+                                     7,263.14
+                     ON US
+ 22-Oct-16 22-Oct-16 ATM CASH W/D FROM     615019409            7,000.00 =
+                                       263.14
+ 
+
+
+                                                                         =
+   Amount In    INDIAN RUPEES
+ =
+-------------------------------------------------------------------------=
+------------------------------------------------------
+
+ DATE     VALUE DATE TRANSACTION DETAILS   CHEQUE NO             DEBITS  =
+             CREDITS               BALANCE
+ =
+-------------------------------------------------------------------------=
+-------------------------------------------------------
+ 22-Oct-16 22-Oct-16 SC ON NFS TXN REMOTE  615019409               20.00 =
+                                       243.14
+                     ON US
+ 23-Oct-16 23-Oct-16 MOBILE FUND XFER CR   710357666                     =
+            4,800.00                 5,043.14
+                     REM-50813020000029
+ 23-Oct-16 23-Oct-16 MOBILE FUND XFER CR   710359047                     =
+            4,800.00                 9,843.14
+                     REM-50813020000029
+ 23-Oct-16 23-Oct-16 MOBILE FUND XFER CR   710359553                     =
+            4,800.00                14,643.14
+                     REM-50813020000029
+ 23-Oct-16 23-Oct-16 MOBILE FUND XFER CR   710364913                     =
+            4,900.00                19,543.14
+                     REM-50813020000029
+ 23-Oct-16 23-Oct-16 MOBILE FUND XFER CR   710789773                     =
+            1,900.00                21,443.14
+                     REM-50813020000029
+ 23-Oct-16 23-Oct-16 MOBILE FUND XFER CR   711999199                     =
+            1,900.00                23,343.14
+                     REM-50813020000029
+ 23-Oct-16 23-Oct-16 ATM CASH W/D FROM     713022602           10,000.00 =
+                                    13,343.14
+                     CASA REMOTE ON US
+ 23-Oct-16 23-Oct-16 SC ON NFS TXN REMOTE  713022602               20.00 =
+                                    13,323.14
+                     ON US
+ 23-Oct-16 23-Oct-16 ATM CASH W/D FROM     713022656           10,000.00 =
+                                     3,323.14
+                     CASA REMOTE ON US
+ 23-Oct-16 23-Oct-16 SC ON NFS TXN REMOTE  713022656               20.00 =
+                                     3,303.14
+                     ON US
+ 23-Oct-16 23-Oct-16 ATM CASH W/D FROM     713022712            3,000.00 =
+                                       303.14
+                     CASA REMOTE ON US
+ 23-Oct-16 23-Oct-16 SC ON NFS TXN REMOTE  713022712               20.00 =
+                                       283.14
+                     ON US
+ 24-Oct-16 24-Oct-16 MOBILE FUND XFER CR   810611406                     =
+            3,900.00                 4,183.14
+                     REM-50813020000029
+ 24-Oct-16 24-Oct-16 MOBILE FUND XFER CR   810549774                     =
+            1,900.00                 6,083.14
+                     REM-50813020000029
+ 24-Oct-16 24-Oct-16 MOBILE FUND XFER CR   810676482                     =
+            4,800.00                10,883.14
+                     REM-50813020000029
+ 24-Oct-16 24-Oct-16 MOBILE FUND XFER CR   810550101                     =
+            1,900.00                12,783.14
+                     REM-50813020000029
+ 24-Oct-16 24-Oct-16 MOBILE FUND XFER CR   811359799                     =
+            2,700.00                15,483.14
+                     REM-50813020000029
+ 24-Oct-16 24-Oct-16 MOBILE FUND XFER CR   811550746                     =
+              900.00                16,383.14
+                     REM-50813020000029
+ 24-Oct-16 24-Oct-16 MOBILE FUND XFER CR   811632915                     =
+              600.00                16,983.14
+                     REM-50813020000029
+ 24-Oct-16 24-Oct-16 MOBILE FUND XFER CR   811552486                     =
+            1,930.00                18,913.14
+                     REM-50813020000029
+ 24-Oct-16 24-Oct-16 MOBILE FUND XFER CR   811359897                     =
+            1,900.00                20,813.14
+                     REM-50813020000029
+ 24-Oct-16 24-Oct-16 MOBILE FUND XFER CR   811359906                     =
+            3,000.00                23,813.14
+                     REM-50813020000029
+ 24-Oct-16 24-Oct-16 MOBILE FUND XFER CR   812754518                     =
+               60.00                23,873.14
+                     REM-50813020000029
+ 25-Oct-16 25-Oct-16 NFS BAL ENQ CHGS      910003739               10.00 =
+                                    23,863.14
+ 25-Oct-16 25-Oct-16 ATM CASH W/D FROM     910003777           10,000.00 =
+                                    13,863.14
+                     CASA REMOTE ON US
+ 25-Oct-16 25-Oct-16 SC ON NFS TXN REMOTE  910003777               20.00 =
+                                    13,843.14
+                     ON US
+ 25-Oct-16 25-Oct-16 ATM CASH W/D FROM     910003854           10,000.00 =
+                                     3,843.14
+                     CASA REMOTE ON US
+ 25-Oct-16 25-Oct-16 SC ON NFS TXN REMOTE  910003854               20.00 =
+                                     3,823.14
+                     ON US
+ 25-Oct-16 25-Oct-16 ATM CASH W/D FROM     910003930            3,500.00 =
+                                       323.14
+                     CASA REMOTE ON US
+ 25-Oct-16 25-Oct-16 SC ON NFS TXN REMOTE  910003930               20.00 =
+                                       303.14
+                     ON US
+ 26-Oct-16 26-Oct-16 MOBILE FUND XFER CR   9702093                       =
+              750.00                 1,053.14
+                     REM-50813020000029
+ 26-Oct-16 26-Oct-16 MOBILE FUND XFER CR   10367574                      =
+            4,900.00                 5,953.14
+                     REM-50813020000029
+ 26-Oct-16 26-Oct-16 MOBILE FUND XFER CR   10367582                      =
+            4,900.00                10,853.14
+                     REM-50813020000029
+ 26-Oct-16 26-Oct-16 MOBILE FUND XFER CR   10367642                      =
+            4,900.00                15,753.14
+                     REM-50813020000029
+ 26-Oct-16 26-Oct-16 ATM CASH W/D FROM     11021276            10,000.00 =
+                                     5,753.14
+                     CASA REMOTE ON US
+ 26-Oct-16 26-Oct-16 SC ON NFS TXN REMOTE  11021276                20.00 =
+                                     5,733.14
+                     ON US
+ 26-Oct-16 26-Oct-16 ATM CASH W/D FROM     11021352             5,500.00 =
+                                       233.14
+                     CASA REMOTE ON US
+ 26-Oct-16 26-Oct-16 SC ON NFS TXN REMOTE  11021352                20.00 =
+                                       213.14
+                     ON US
+ 28-Oct-16 28-Oct-16 MOBILE FUND XFER CR   207804548                     =
+            4,900.00                 5,113.14
+                     REM-50813020000029
+ 28-Oct-16 28-Oct-16 ATM CASH W/D FROM     124204653            5,000.00 =
+                                       113.14
+                     CASA REMOTE ON US
+ 28-Oct-16 28-Oct-16 SC ON NFS TXN REMOTE  124204653               20.00 =
+                                        93.14
+                     ON US
+ 31-Oct-16 31-Oct-16 MOBILE FUND XFER CR   513438891                     =
+            3,200.00                 3,293.14
+                     REM-50813020000029
+ 01-Nov-16 01-Nov-16 MOBILE FUND XFER CR   610534594                     =
+            1,350.00                 4,643.14
+                     REM-50813020000029
+ 01-Nov-16 01-Nov-16 MOBILE FUND XFER CR   610461545                     =
+            1,900.00                 6,543.14
+                     REM-50813020000029
+ 01-Nov-16 01-Nov-16 MOBILE FUND XFER CR   610806920                     =
+            1,100.00                 7,643.14
+                     REM-50813020000029
+ 01-Nov-16 01-Nov-16 ATM CASH W/D FROM     616019216            7,500.00 =
+                                       143.14
+                     CASA REMOTE ON US
+ 02-Nov-16 02-Nov-16 MOBILE FUND XFER CR   709343660                     =
+            1,900.00                 2,043.14
+                     REM-50813020000029
+ 04-Nov-16 04-Nov-16 MOBILE FUND XFER CR   911955537                     =
+            1,900.00                 3,943.14
+                     REM-50813020000029
+ 04-Nov-16 04-Nov-16 MOBILE FUND XFER CR   911955655                     =
+            1,910.00                 5,853.14
+                     REM-50813020000029
+ 04-Nov-16 04-Nov-16 MOBILE FUND XFER CR   912957438                     =
+              900.00                 6,753.14
+                     REM-50813020000029
+ 04-Nov-16 04-Nov-16 ATM CASH W/D FROM     912004355            6,500.00 =
+                                       253.14
+                     CASA REMOTE ON US
+ 05-Nov-16 05-Nov-16 MOBILE FUND XFER CR   12178583                      =
+            4,800.00                 5,053.14
+                     REM-50813020000029
+ 06-Nov-16 06-Nov-16 ATM CASH W/D FROM     112031097            5,000.00 =
+                                        53.14
+                     CASA REMOTE ON US
+ 
+ =
+-------------------------------------------------------------------------=
+------------------------------------------------------
+
+ DATE     VALUE DATE TRANSACTION DETAILS   CHEQUE NO             DEBITS  =
+             CREDITS               BALANCE
+ =
+-------------------------------------------------------------------------=
+-------------------------------------------------------
+ 07-Nov-16 07-Nov-16 MOBILE FUND XFER CR   216165559                     =
+              900.00                   953.14
+                     REM-50813020000029
+ 08-Nov-16 08-Nov-16 MOBILE FUND XFER CR   310505846                     =
+            4,800.00                 5,753.14
+                     REM-50813020000029
+ 08-Nov-16 08-Nov-16 MOBILE FUND XFER CR   310507282                     =
+            1,150.00                 6,903.14
+                     REM-50813020000029
+ 08-Nov-16 08-Nov-16 MOBILE FUND XFER CR   310422154                     =
+            4,900.00                11,803.14
+                     REM-50813020000029
+ 08-Nov-16 08-Nov-16 ATM CASH W/D FROM     311005728           10,000.00 =
+                                     1,803.14
+                     CASA REMOTE ON US
+ 08-Nov-16 08-Nov-16 ATM CASH W/D FROM     311005802            1,500.00 =
+                                       303.14
+                     CASA REMOTE ON US
+ 08-Nov-16 08-Nov-16 SC ON NFS TXN REMOTE  311005802               20.00 =
+                                       283.14
+                     ON US
+ 10-Nov-16 10-Nov-16 MOBILE FUND XFER CR   511397388                     =
+              900.00                 1,183.14
+                     REM-50813020000029
+ 11-Nov-16 11-Nov-16 MOBILE FUND XFER CR   614436350                     =
+            4,800.00                 5,983.14
+                     REM-50813020000029
+ 11-Nov-16 11-Nov-16 MOBILE FUND XFER CR   614926343                     =
+            1,100.00                 7,083.14
+                     REM-50813020000029
+ 13-Nov-16 13-Nov-16 ATM CASH W/D FROM     814016806            2,000.00 =
+                                     5,083.14
+                     CASA REMOTE ON US
+ 13-Nov-16 13-Nov-16 SC ON NFS TXN REMOTE  814016806               20.00 =
+                                     5,063.14
+                     ON US
+ 19-Nov-16 19-Nov-16 ATM CASH W/D FROM     411014340            2,000.00 =
+                                     3,063.14
+                     CASA REMOTE ON US
+ 20-Nov-16 20-Nov-16 ATM CASH W/D FROM     512025610            2,000.00 =
+                                     1,063.14
+                     CASA REMOTE ON US
+ 22-Nov-16 22-Nov-16 MOBILE FUND XFER CR   711287045                     =
+            2,000.00                 3,063.14
+                     REM-50813020000029
+ 22-Nov-16 22-Nov-16 MOBILE FUND XFER CR   711290006                     =
+            5,000.00                 8,063.14
+                     REM-50813020000029
+ 22-Nov-16 22-Nov-16 MOBILE FUND XFER CR   711291713                     =
+              800.00                 8,863.14
+                     REM-50813020000029
+ 23-Nov-16 23-Nov-16 ATM CASH W/D FROM     817022966            2,500.00 =
+                                     6,363.14
+                     CASA REMOTE ON US
+ 24-Nov-16 24-Nov-16 ATM CASH W/D FROM     910016845            2,000.00 =
+                                     4,363.14
+                     CASA REMOTE ON US
+ 24-Nov-16 24-Nov-16 ATM CASH W/D FROM     910016986              500.00 =
+                                     3,863.14
+                     CASA REMOTE ON US
+ 24-Nov-16 24-Nov-16 MOBILE FUND XFER CR   911973496                     =
+            1,900.00                 5,763.14
+                     REM-50813020000029
+ 24-Nov-16 24-Nov-16 POS PURCHASE REMOTE   911011343            5,700.00 =
+                                        63.14
+                     ON-US
+ 26-Nov-16 26-Nov-16 MOBILE FUND XFER CR   111908539                     =
+            4,900.00                 4,963.14
+                     REM-50813020000029
+ 26-Nov-16 26-Nov-16 POS PURCHASE REMOTE   112000653            4,000.00 =
+                                       963.14
+                     ON-US
+ 29-Nov-16 29-Nov-16 MOBILE FUND XFER CR   411591410                     =
+            1,200.00                 2,163.14
+                     REM-50813020000029
+ 30-Nov-16 30-Nov-16 ATM CASH W/D FROM     510024073            2,000.00 =
+                                       163.14
+                     CASA REMOTE ON US
+ 01-Dec-16 01-Dec-16 MOBILE FUND XFER CR   609832760                     =
+            1,000.00                 1,163.14
+                     REM-50813020000029
+ 01-Dec-16 01-Dec-16 MOBILE FUND XFER CR   609845190                     =
+            1,900.00                 3,063.14
+                     REM-50813020000029
+ 01-Dec-16 01-Dec-16 ATM CASH W/D FROM     612017229            2,000.00 =
+                                     1,063.14
+                     CASA REMOTE ON US
+ 04-Dec-16 04-Dec-16 ATM CASH W/D FROM     912030814            1,000.00 =
+                                        63.14
+                     CASA REMOTE ON US
+ 09-Dec-16 09-Dec-16 MOBILE FUND XFER CR   410591197                     =
+            5,000.00                 5,063.14
+                     REM-50813020000029
+ 09-Dec-16 09-Dec-16 MOBILE FUND XFER CR   410591208                     =
+            1,900.00                 6,963.14
+                     REM-50813020000029
+ 09-Dec-16 09-Dec-16 MOBILE FUND XFER CR   410591292                     =
+            4,900.00                11,863.14
+                     REM-50813020000029
+ 09-Dec-16 09-Dec-16 POS PURCHASE REMOTE   411614130              500.00 =
+                                    11,363.14
+                     ON-US
+ 09-Dec-16 09-Dec-16 ATM CASH W/D FROM     412018607            2,000.00 =
+                                     9,363.14
+                     CASA REMOTE ON US
+ 09-Dec-16 09-Dec-16 POS PURCHASE REMOTE   412021924            9,000.00 =
+                                       363.14
+                     ON-US
+ 20-Dec-16 20-Dec-16 RUPAY S CH 4130 DT    0                        4.31 =
+                                       358.83
+                     20161209
+ 31-Dec-16 31-Dec-16 CREDIT INTEREST                                     =
+               15.36                   374.19
+                     CAPITALISED
+ =
+-------------------------------------------------------------------------=
+-------------------------------------------------------
+
+ * * * * * * * * * *                         Totals             =
+2,95,214.31
+                                                                         =
+             2,95,588.50
+
+ =
+-------------------------------------------------------------------------=
+-------------------------------------------------------
+  
+ %% CH220.out ,7591
+
+</PRE></BODY></HTML>
